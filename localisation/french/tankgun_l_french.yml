@@ -1,0 +1,1369 @@
+﻿l_french:
+
+#GER
+ GER_flamethrower:0 "Flammenwerfer 35"
+ 
+ GER_tank_heavy_machine_gun:0 "7,92 mm MG34"
+ GER_tank_auto_cannon:0 "2 cm KwK 30 L/55"
+ GER_tank_auto_cannon_2:0 "2 cm KwK 38 L/55"
+ 
+ GER_tank_anti_air_cannon:0 "2 cm FlaK 38 L/65"
+ GER_tank_anti_air_cannon_2:0 "3 cm MK103 L/45"
+ GER_tank_anti_air_cannon_3:0 "3.7 cm Flak 43 L/89"
+ 
+ GER_tank_close_support_gun:0 "7.5 cm KwK 37 L/24"
+ 
+ GER_tank_small_cannon:0 "3,7 cm KwK 36 L/45"
+ GER_tank_small_cannon_2:0 "5 cm KwK 38 L/42"
+ 
+ GER_tank_medium_cannon:0 "7,5 cm KwK 40 L/48"
+ GER_tank_medium_cannon_2:0 "7,5 cm KwK 42 L/70"
+ 
+ GER_tank_high_velocity_cannon:0 "5 cm Pak 39 L/60"
+ GER_tank_high_velocity_cannon_2:0 "7,5 cm PaK 42 L/70"
+ GER_tank_high_velocity_cannon_3:0 "8,8 cm PaK 43 L/71"
+ 
+ GER_tank_heavy_cannon:0 "8,8 cm KwK 36 L/56"
+ GER_tank_heavy_cannon_2:0 "8,8 cm KwK 43 L/71"
+ GER_tank_heavy_cannon_3:1 "10,5 cm KwK L/70"
+ 
+ GER_tank_medium_howitzer:0 "10,5 cm leFH 18M L/28"
+ GER_tank_medium_howitzer_2:0 "15 cm sFH 18 L/30"
+ GER_tank_heavy_howitzer:0 "30,5 cm H. L/16"
+ 
+ GER_tank_super_heavy_cannon:0 "12,8 cm KwK 44 L/55"
+
+ GER_tank_rocket_launcher:0 "15 cm Nebelwerfer 41"
+ GER_tank_rocket_launcher_2:0 "32 cm Nebelwerfer 41"
+
+ GER_secondary_turret_hmg:1 "7,92 mm MG34"
+ GER_secondary_turret_small_cannon:1 "2 cm KwK 38 L/55"
+ GER_secondary_turret_close_support_gun:1 "7,5 cm KwK 37 L/24"
+
+ GER_additional_machine_guns:0 "7,92 mm MG34"
+ 
+ 
+#USA
+ USA_flamethrower:0 "M2 flamethrower"
+ 
+ USA_tank_heavy_machine_gun:0 "7.62 mm M1919 Browning"
+ 
+ USA_tank_auto_cannon:0 "AN/M4 20 mm Autocannon L/85"
+ USA_tank_auto_cannon_2:0 "M9 37 mm Autocannon L/65"
+ 
+ USA_tank_anti_air_cannon:0 "12.7 mm M2 Browning machine gun"
+ USA_tank_anti_air_cannon_2:0 "M1A2 37 mm Automatic Gun L/54"
+ USA_tank_anti_air_cannon_3:0 "Bofors 40 mm Automatic Gun L/60"
+ 
+ USA_tank_close_support_gun:0 "M6 37 mm L/56"
+ 
+ USA_tank_small_cannon:0 "M5 37 mm L/55"
+ USA_tank_small_cannon_2:0 "M6 37 mm L/56"
+ 
+ USA_tank_medium_cannon:0 "M3 75 mm L/40"
+ USA_tank_medium_cannon_2:0 "M5 76 mm L/50"
+ 
+ USA_tank_high_velocity_cannon:0 "M1 57 mm L/50"
+ USA_tank_high_velocity_cannon_2:0 "M1A2 76 mm L/52"
+ USA_tank_high_velocity_cannon_3:0 "T15E2 90 mm L/73"
+ 
+ USA_tank_heavy_cannon:0 "M3A1 90 mm L/52"
+ USA_tank_heavy_cannon_2:0 "T54 90 mm L/73"
+ USA_tank_heavy_cannon_3:1 "T5E2 105 mm L/68"
+ 
+ USA_tank_medium_howitzer:0 "M1 105 mm L/22"
+ USA_tank_medium_howitzer_2:0 "M2 155 mm L/38"
+ USA_tank_heavy_howitzer:0 "M115 203 mm L/25"
+ 
+ USA_tank_super_heavy_cannon:0 "T53 120 mm L/65
+
+ USA_tank_rocket_launcher:0 "T34 Calliope"
+ USA_tank_rocket_launcher_2:0 "T40 Whizbang"
+
+ USA_secondary_turret_hmg:1 "7.62 mm M1919 Browning"
+ USA_secondary_turret_small_cannon:1 "M6 37 mm L/56"
+ USA_secondary_turret_close_support_gun:1 "M1 57 mm L/50"
+
+ USA_additional_machine_guns:0 "7.62 mm M1919 Browning"
+ 
+
+#SOV
+ SOV_flamethrower:0 "ROKS-2"
+ 
+ SOV_tank_heavy_machine_gun:0 "7.62 mm DT-29"
+ 
+ SOV_tank_auto_cannon:0 "12.7 mm ShVAK"
+ SOV_tank_auto_cannon_2:0 "20 mm ShVAK"
+ 
+ SOV_tank_anti_air_cannon:0 "12.7 mm DShK 1938"
+ SOV_tank_anti_air_cannon_2:0 "25 mm 72-K"
+ SOV_tank_anti_air_cannon_3:0 "37 mm 61-K"
+
+ SOV_tank_small_cannon:0 "37 mm PS-2 L/45"
+ SOV_tank_small_cannon_2:0 "45 mm 20-K L/46"
+ 
+ SOV_tank_close_support_gun:0 "76 mm KT-28 L/16"
+ 
+ SOV_tank_medium_cannon:0 "76.2 mm F-34 L/41"
+ SOV_tank_medium_cannon_2:0 "85 mm ZiS-S-53 L/54"
+ 
+ SOV_tank_high_velocity_cannon:0 "57 mm ZiS-4 L/73"
+ SOV_tank_high_velocity_cannon_2:0 "85 mm D-5T-85BM L/64"
+ SOV_tank_high_velocity_cannon_3:0 "100 mm M-63 L/58"
+ 
+ SOV_tank_heavy_cannon:0 "100 mm S-34 L/54"
+ SOV_tank_heavy_cannon_2:0 "107 mm ZIS-6 L/43"
+ SOV_tank_heavy_cannon_3:1 "122 mm D-25T L/48"
+ 
+ SOV_tank_medium_howitzer:0 "152 mm M-10T L/24"
+ SOV_tank_medium_howitzer_2:0 "203 mm B-4 L/24"
+ SOV_tank_heavy_howitzer:0 "280 mm Br-5 L/11"
+ 
+ SOV_tank_super_heavy_cannon:0 "130 mm S-70 L/39"
+
+ SOV_tank_rocket_launcher:0 "82 mm M-8"
+ SOV_tank_rocket_launcher_2:0 "300 mm M-30"
+
+ SOV_secondary_turret_hmg:1 "7.62 mm DT-29"
+ SOV_secondary_turret_small_cannon:1 "37 mm PS-2 L/45"
+ SOV_secondary_turret_close_support_gun:1 "45 mm 20-K L/46"
+
+ SOV_additional_machine_guns:0 "7.62 mm DT-29"
+ 
+ 
+#ENG
+ ENG_flamethrower:0 "Crocodile"
+ 
+ ENG_tank_heavy_machine_gun:0 "7.92 mm Besa machine gun"
+ 
+ ENG_tank_auto_cannon:0 "12.7 mm Besa machine gun"
+ ENG_tank_auto_cannon_2:0 "15 mm Besa machine gun"
+ 
+ ENG_tank_anti_air_cannon:0 "QF 2 Pounder Mark VIII 'pom-pom'"
+ ENG_tank_anti_air_cannon_2:0 "QF 3-inch 20 cwt"
+ ENG_tank_anti_air_cannon_3:0 "QF 3.7-inch AA gun"
+ 
+ ENG_tank_small_cannon:0 "QF 2 Pounder MK.I"
+ ENG_tank_small_cannon_2:0 "QF 2 Pounder MK.II"
+ ENG_tank_close_support_gun:0 "QF 3 pounder"
+ 
+ ENG_tank_medium_cannon:0 "QF 6 pounder Mk.III"
+ ENG_tank_medium_cannon_2:0 "QF 6 pounder Mk.V"
+ 
+ ENG_tank_high_velocity_cannon:0 "QF 75 mm HV MK.II"
+ ENG_tank_high_velocity_cannon_2:0 "QF 75 mm HV MK.V"
+ ENG_tank_high_velocity_cannon_3:0 "QF 77 mm HV"
+ 
+ ENG_tank_heavy_cannon:0 "QF 17 pounder Mk.II"
+ ENG_tank_heavy_cannon_2:0 "QF 20 pounder MK.III"
+ ENG_tank_heavy_cannon_3:1 "QF 25 pounder"
+ 
+ ENG_tank_medium_howitzer:0 "QF 3 inch Howitzer"
+ ENG_tank_medium_howitzer_2:0 "QF 4.5 inch Howitzer"
+ ENG_tank_heavy_howitzer:0 "BL 5.5 inch Howitzer"
+ 
+ ENG_tank_super_heavy_cannon:0 "QF 32 pounder"
+ 
+ ENG_tank_rocket_launcher:0 "3-inch RP-3"
+ ENG_tank_rocket_launcher_2:0 "6-inch 60lb SAP"
+
+ ENG_secondary_turret_hmg:1 "7.92 mm Besa machine gun"
+ ENG_secondary_turret_small_cannon:1 "QF 2 pounder MK.II"
+ ENG_secondary_turret_close_support_gun:1 "QF 3 pounder"
+
+ ENG_additional_machine_guns:0 "7.7 mm Vickers Mk I"
+ 
+ 
+#JAP
+ JAP_flamethrower:0 "Type 93 Flamethrower"
+ 
+ JAP_tank_heavy_machine_gun:0 "Type 91 6.5 mm Machine Gun"
+ 
+ JAP_tank_auto_cannon:0 "Type 92 13.3 mm Heavy Machine Gun"
+ JAP_tank_auto_cannon_2:0 "Type 97 20 mm automatic cannon"
+ 
+ JAP_tank_anti_air_cannon:0 "Type 98 20 mm AA gun"
+ JAP_tank_anti_air_cannon_2:0 "Type 96 25 mm AA gun"
+ JAP_tank_anti_air_cannon_3:0 "Type 5 40 mm AA gun"
+ 
+ JAP_tank_small_cannon:0 "Type 94 37 mm L/37"
+ JAP_tank_small_cannon_2:0 "Type 1 37 mm L/50"
+ 
+ JAP_tank_close_support_gun:0 "Type 97 57 mm L/18"
+ 
+ JAP_tank_medium_cannon:0 "Type 1 47 mm L/48"
+ JAP_tank_medium_cannon_2:0 "Type 1 47 mm II L/48"
+ 
+ JAP_tank_high_velocity_cannon:0 "Type 2 57 mm L/48"
+ JAP_tank_high_velocity_cannon_2:0 "Type 5 75 mm II L/56"
+ JAP_tank_high_velocity_cannon_3:0 "Type 92 105 mm L/55"
+ 
+ JAP_tank_heavy_cannon:0 "Type 99 75 mm L/24"
+ JAP_tank_heavy_cannon_2:0 "Type 3 75 mm II L/38"
+ JAP_tank_heavy_cannon_3:1 "Type 3 120 mm L/12"
+ 
+ JAP_tank_medium_howitzer:0 "Type 38 75 mm howitzer"
+ JAP_tank_medium_howitzer_2:0 "Type 92 105 mm howitzer"
+ JAP_tank_heavy_howitzer:0 "Type 38 150 mm howitzer"
+ 
+ JAP_tank_super_heavy_cannon:0 "Type 3 140 mm L/50"
+ 
+ JAP_tank_rocket_launcher:0 "Type 4 70 mm AT Rocket"
+ JAP_tank_rocket_launcher_2:0 "Type 4 200 mm AT Rocket"
+
+ JAP_secondary_turret_hmg:1 "Type 91 6.5 mm Machine Gun"
+ JAP_secondary_turret_small_cannon:1 "Type 1 37 mm L/50"
+ JAP_secondary_turret_close_support_gun:1 "Type 97 57 mm L/18"
+
+ JAP_additional_machine_guns:0 "Type 91 6.5 mm Machine Gun"
+ 
+ 
+#FRA
+ FRA_flamethrower:0 "French Flamethrower"
+ 
+ FRA_tank_heavy_machine_gun:0 "Reibel 7.5 mm  Machine Gun"
+ 
+ FRA_tank_auto_cannon:0 "Hotchkiss 13.2 mm machine gun"
+ FRA_tank_auto_cannon_2:0 "SA35 25 mm AT gun"
+ 
+ FRA_tank_anti_air_cannon:0 "Hotchkiss 25 mm CAMle.1938"
+ FRA_tank_anti_air_cannon_2:0 "Hotchkiss 25 mm CAMle.1939"
+ FRA_tank_anti_air_cannon_3:0 "Hotchkiss 25 mm CAMle.1940"
+ 
+ FRA_tank_small_cannon:0 "SA18 37 mm L/21"
+ FRA_tank_small_cannon_2:0 "SA38 37 mm L/21"
+ 
+ FRA_tank_close_support_gun:0 "SA35 75 mm L/17"
+ 
+ FRA_tank_medium_cannon:0 "SA34 47 mm L/32"
+ FRA_tank_medium_cannon_2:0 "SA38 47 mm L/32"
+ 
+ FRA_tank_high_velocity_cannon:0 "APX 47 mm mle.1937"
+ FRA_tank_high_velocity_cannon_2:0 "APX 75 mm mle.1929"
+ FRA_tank_high_velocity_cannon_3:0 "APX 75 mm mle.1938"
+ 
+ FRA_tank_heavy_cannon:0 "SA32 75 mm L/32"
+ FRA_tank_heavy_cannon_2:0 "SA44 75 mm L/44"
+ FRA_tank_heavy_cannon_3:1 "SA45 90 mm L/50"
+ 
+ FRA_tank_medium_howitzer:0 "GPF 194 mm mle.1920"
+ FRA_tank_medium_howitzer_2:0 "Schneider 220 mm mle.1917"
+ FRA_tank_heavy_howitzer:0 "Schneider 280 mm mle.1914"
+ 
+ FRA_tank_super_heavy_cannon:0 "GIAT CN 105 mm F1 L/56"
+ 
+ FRA_tank_rocket_launcher:0 "PIAT MK.I"
+ FRA_tank_rocket_launcher_2:0 "PIAT Mark IV"
+
+ FRA_secondary_turret_hmg:1 "Reibel 7.5 mm  Machine Gun"
+ FRA_secondary_turret_small_cannon:1 "SA38 37 mm L/21"
+ FRA_secondary_turret_close_support_gun:1 "SA35 75 mm L/17"
+
+ FRA_additional_machine_guns:0 "Reibel 7.5 mm  Machine Gun"
+ 
+ 
+#ITA
+ ITA_flamethrower:0 "Fiat-OCI Lanciafia mme Mod.41"
+ 
+ ITA_tank_heavy_machine_gun:0 "Breda 8 mm Mod.38"
+
+ ITA_tank_auto_cannon:0 "Breda 13.2 mm Mod.31"
+ ITA_tank_auto_cannon_2:0 "Scotti 20/77 Mod.32" 
+ 
+ ITA_tank_anti_air_cannon:0 "Breda 13.2 mm mod.31"
+ ITA_tank_anti_air_cannon_2:0 "Breda 20/65 Mod.35"
+ ITA_tank_anti_air_cannon_3:0 "Breda 37/54 Mod.38"
+ 
+ ITA_tank_small_cannon:0 "Vickers-Terni 37/40 Mod.18"
+ ITA_tank_small_cannon_2:0 "Vickers-Terni 37/54 Mod.32"
+ 
+ ITA_tank_close_support_gun:0 "Vickers-Terni 37/26 mod.36"
+ 
+ ITA_tank_medium_cannon:0 "Bohler 47/32 Mod.39"
+ ITA_tank_medium_cannon_2:0 "Bohler 47/40 Mod.38"
+ 
+ ITA_tank_high_velocity_cannon:0 "Ansaldo 75/18 Mod.34"
+ ITA_tank_high_velocity_cannon_2:0 "Ansaldo 75/46 C.A. Mod.34"
+ ITA_tank_high_velocity_cannon_3:0 "Ansaldo 90/53 Mod.39"
+ 
+ ITA_tank_heavy_cannon:0 "Ansaldo 75/32 Mod.37"
+ ITA_tank_heavy_cannon_2:0 "Ansaldo 75/34 Mod.S.F."
+ ITA_tank_heavy_cannon_3:1 "Ansaldo 90/42 Mod.39"
+ 
+ ITA_tank_medium_howitzer:0 "Ansaldo 100/17 Mod.14"
+ ITA_tank_medium_howitzer_2:0 "Ansaldo 105/14 Mod.18"
+ ITA_tank_heavy_howitzer:0 "Ansaldo 149/40 Mod.35"
+ 
+ ITA_tank_super_heavy_cannon:0 "Ansaldo 105/25 Mod.13"
+ 
+ ITA_tank_rocket_launcher:0 "15 cm Nebelwerfer 41"
+ ITA_tank_rocket_launcher_2:0 "30 cm Nebelwerfer 41"
+ 
+
+
+ ITA_secondary_turret_hmg:1 "Breda 8 mm Mod.37"
+ ITA_secondary_turret_small_cannon:1 "Vickers-Terni 37/54 Mod.32"
+ ITA_secondary_turret_close_support_gun:1 "Vickers-Terni 37/26 mod.36"
+
+ ITA_additional_machine_guns:0 "Breda 8 mm Mod.38"
+ 
+#ROM
+ ROM_flamethrower:0 "Flammenwerfer 35"
+ 
+ ROM_tank_heavy_machine_gun:0 "7.92mm Vz.30"
+ ROM_tank_auto_cannon:0 "24 mm Pzw-Kan 38 L/63"
+ ROM_tank_auto_cannon_2:0 "24 mm Pzw-Kan 43 L/63"
+ 
+ ROM_tank_anti_air_cannon:0 "2 cm FlaK 30 L/65"
+ ROM_tank_anti_air_cannon_2:0 "2 cm FlaK 38 L/65"
+ ROM_tank_anti_air_cannon_3:0 "3.7 cm Flak 43 L/89"
+ 
+ ROM_tank_close_support_gun:0 "47mm rychlopalný kanón L/20"
+ 
+ ROM_tank_small_cannon:0 "37 mm Škoda A3 L/40"
+ ROM_tank_small_cannon_2:0 "37 mm Škoda A7 L/48"
+ 
+ ROM_tank_medium_cannon:0 "7,5 cm KwK 40 L/48"
+ ROM_tank_medium_cannon_2:0 "7,5 cm KwK 40 L/70"
+ 
+ ROM_tank_high_velocity_cannon:0 "47 mm Schneider M1936 L/53"
+ ROM_tank_high_velocity_cannon_2:0 "75 mm Reșița M1943 L/48"
+ ROM_tank_high_velocity_cannon_3:0 "122mm M1938 L/22"
+ 
+ ROM_tank_heavy_cannon:0 "75 mm Škoda A13 L/36"
+ ROM_tank_heavy_cannon_2:0 "80 mm Vz.32 L/40"
+ ROM_tank_heavy_cannon_3:1 "90 mm Vz.20 L/45"
+ 
+ ROM_tank_medium_howitzer:0 "100 mm houfnice vz.30 L/25"
+ ROM_tank_medium_howitzer_2:0 "149 mm Škoda K1 L/24"
+ ROM_tank_heavy_howitzer:0 "220 mm Škoda M.28 L/19"
+ 
+ ROM_tank_super_heavy_cannon:0 "100 mm Škoda R11 L/64"
+
+ ROM_tank_rocket_launcher:0 "15 cm Nebelwerfer 41"
+ ROM_tank_rocket_launcher_2:0 "32 cm Nebelwerfer 41"
+
+ ROM_secondary_turret_hmg:1 "7.92mm Vz.30"
+ ROM_secondary_turret_small_cannon:1 "37 mm Škoda A7 L/47"
+ ROM_secondary_turret_close_support_gun:1 "47mm rychlopalný kanón L/20"
+
+ ROM_additional_machine_guns:0 "7.92mm Vz.30"
+ 
+#HUN
+ HUN_flamethrower:0 "Flammenwerfer 35"
+ 
+ HUN_tank_heavy_machine_gun:0 "37.M Gebauer 8mm"
+ HUN_tank_auto_cannon:0 "36.M 20mm Nehézpuska"
+ HUN_tank_auto_cannon_2:0 "41.M 20mm Tankbuchse"
+ 
+ HUN_tank_anti_air_cannon:0 "37.M Gebauer 8mm"
+ HUN_tank_anti_air_cannon_2:0 "40.M Gebauer 12.7 mm"
+ HUN_tank_anti_air_cannon_3:0 "36.M 40 mm L/60"
+ 
+ HUN_tank_close_support_gun:0 "40.M 105mm L/14"
+ 
+ HUN_tank_small_cannon:0 "37.M 40 mm L/42"
+ HUN_tank_small_cannon_2:0 "42.M 40 mm L/45"
+ 
+ HUN_tank_medium_cannon:0 "41.M 75 mm L/31"
+ HUN_tank_medium_cannon_2:0 "43.M 75 mm L/43"
+ 
+ HUN_tank_high_velocity_cannon:0 "41.M 40 mm L/51"
+ HUN_tank_high_velocity_cannon_2:0 "43.M 75 mm L/48"
+ HUN_tank_high_velocity_cannon_3:0 "88 mm PaK 43 L/71"
+ 
+ HUN_tank_heavy_cannon:0 "41.M 80 mm L/52"
+ HUN_tank_heavy_cannon_2:0 "44.M 80 mm L/58"
+ HUN_tank_heavy_cannon_3:1 "88 mm KwK 43 L/71"
+ 
+ HUN_tank_medium_howitzer:0 "31.M 105mm L/20"
+ HUN_tank_medium_howitzer_2:0 "37.M 105mm L/28"
+ HUN_tank_heavy_howitzer:0 "M.14/39 150 mm L/14"
+ 
+ HUN_tank_super_heavy_cannon:0 "105 mm KwK L/70"
+
+ HUN_tank_rocket_launcher:0 "44.M 60mm Buzogányvető"
+ HUN_tank_rocket_launcher_2:0 "44.M 88mm Buzogányvető"
+ 
+ HUN_secondary_turret_hmg:1 "37.M Gebauer 8mm"
+ HUN_secondary_turret_small_cannon:1 "42.M 40 mm L/45"
+ HUN_secondary_turret_close_support_gun:1 "40.M 105mm L/14"
+
+ HUN_additional_machine_guns:0 "37.M Gebauer 8mm"
+ 
+#CZE
+ CZE_flamethrower:0 "Flammenwerfer 35"
+ 
+ CZE_tank_heavy_machine_gun:0 "7.92mm Vz.26"
+ CZE_tank_auto_cannon:0 "24 mm Pzw-Kan 38 L/63"
+ CZE_tank_auto_cannon_2:0 "24 mm Pzw-Kan 43 L/63"
+ 
+ CZE_tank_anti_air_cannon:0 "7.92mm vz.30"
+ CZE_tank_anti_air_cannon_2:0 "15 mm ZB-60"
+ CZE_tank_anti_air_cannon_3:0 "20 mm PL vz.36"
+ 
+ CZE_tank_close_support_gun:0 "47mm rychlopalný kanón L/20"
+ 
+ CZE_tank_small_cannon:0 "37 mm Škoda A3 L/40"
+ CZE_tank_small_cannon_2:0 "37 mm Škoda A7 L/48"
+ 
+ CZE_tank_medium_cannon:0 "47 mm Škoda A9 L/43"
+ CZE_tank_medium_cannon_2:0 "47 mm Škoda A11 L/43"
+ 
+ CZE_tank_high_velocity_cannon:0 "37 mm Škoda A19 L/47"
+ CZE_tank_high_velocity_cannon_2:0 "47 mm Škoda A9J L/43"
+ CZE_tank_high_velocity_cannon_3:0 "75 mm Škoda A18 L/55"
+ 
+ CZE_tank_heavy_cannon:0 "75 mm Škoda A13 L/36"
+ CZE_tank_heavy_cannon_2:0 "80 mm Vz.32 L/40"
+ CZE_tank_heavy_cannon_3:1 "90 mm Vz.20 L/45"
+ 
+ CZE_tank_medium_howitzer:0 "105 mm Škoda M.39 L/24"
+ CZE_tank_medium_howitzer_2:0 "149 mm Škoda K1 L/24"
+ CZE_tank_heavy_howitzer:0 "220 mm Škoda M.28 L/19"
+ 
+ CZE_tank_super_heavy_cannon:0 "100 mm Škoda R11 L/64"
+
+ CZE_tank_rocket_launcher:0 "15 cm Nebelwerfer 41"
+ CZE_tank_rocket_launcher_2:0 "32 cm Nebelwerfer 41"
+
+ CZE_secondary_turret_hmg:1 "7.92mm Vz.26"
+ CZE_secondary_turret_small_cannon:1 "37 mm Škoda A7 L/47"
+ CZE_secondary_turret_close_support_gun:1 "47mm rychlopalný kanón L/20"
+
+ CZE_additional_machine_guns:0 "7.92mm Vz.26"
+ 
+#POL
+ POL_flamethrower:0 "Flammenwerfer 35"
+ 
+ POL_tank_heavy_machine_gun:0 "7.92 mm Wz.25"
+ POL_tank_auto_cannon:0 "13.2 mm Nkm wz.30"
+ POL_tank_auto_cannon_2:0 "20 mm Nkm wz.38"
+ 
+ POL_tank_anti_air_cannon:0 "13.2 mm Nkm wz.30"
+ POL_tank_anti_air_cannon_2:0 "37 mm Bofors wz.37 L/43"
+ POL_tank_anti_air_cannon_3:0 "40 mm Bofors wz.36 L/60"
+ 
+ POL_tank_close_support_gun:0 "47 mm QFSA L/18"
+ 
+ POL_tank_small_cannon:0 "37 mm Armata wz.36 L/43"
+ POL_tank_small_cannon_2:0 "40 mm Armata wz.36 L/60"
+ 
+ POL_tank_medium_cannon:0 "75 mm Armata wz.97 L/36"
+ POL_tank_medium_cannon_2:0 "75 mm Armata wz.24 L/50"
+ 
+ POL_tank_high_velocity_cannon:0 "47 mm Armata wz.39 L/55"
+ POL_tank_high_velocity_cannon_2:0 "75 mm Armata wz.36 L/52"
+ POL_tank_high_velocity_cannon_3:0 " 105 mm Armata wz.34 L/42"
+ 
+ POL_tank_heavy_cannon:0 "81 mm Armata wz.31 L/16"
+ POL_tank_heavy_cannon_2:0 "90 mm Armata wz.39 L/44"
+ POL_tank_heavy_cannon_3:1 "105 mm Armata wz.29 L/31"
+ 
+ POL_tank_medium_howitzer:0 "75 mm Armata wz.02 L/30"
+ POL_tank_medium_howitzer_2:0 "100 mm haubica wz.19 L/24"
+ POL_tank_heavy_howitzer:0 "220 mm moździerz vz.28 L/19"
+ 
+ POL_tank_super_heavy_cannon:0 "120 mm Armata wz.78 L/27"
+
+ POL_tank_rocket_launcher:0 "15 cm Nebelwerfer 41"
+ POL_tank_rocket_launcher_2:0 "32 cm Nebelwerfer 41"
+
+ POL_secondary_turret_hmg:1 "7.92mm Wz.25"
+ POL_secondary_turret_small_cannon:1 "40 mm Armata wz.36 L/60"
+ POL_secondary_turret_close_support_gun:1 "47 mm QFSA L/18"
+
+ POL_additional_machine_guns:0 "7.92mm Wz.25"
+ 
+#SWE
+ SWE_flamethrower:0 "Esp m/41"
+ 
+ SWE_tank_heavy_machine_gun:0 "6.5mm ksp m/1914"
+ SWE_tank_auto_cannon:0 "20 mm Madsen automatkanon"
+ SWE_tank_auto_cannon_2:0 "25 mm Bofors automatkanon"
+ 
+ SWE_tank_anti_air_cannon:0 "20 mm Lvkan m/40 L/70"
+ SWE_tank_anti_air_cannon_2:0 "25 mm Lvkan m/32 L/64"
+ SWE_tank_anti_air_cannon_3:0 "40 mm Lvkan m/36 L/60"
+ 
+ SWE_tank_close_support_gun:0 "7,5 cm Pvkan m/41 L/31"
+ 
+ SWE_tank_small_cannon:0 "3,7 cm Infkan m/34 L/27"
+ SWE_tank_small_cannon_2:0 "3,7 cm Pvkan m/38 L/45"
+ 
+ SWE_tank_medium_cannon:0 "7,5 cm Pvkan m/43 L/40"
+ SWE_tank_medium_cannon_2:0 "7,5 cm Pvkan m/43 L/54"
+ 
+ SWE_tank_high_velocity_cannon:0 "5,7 cm Pvkan m/43 L/47"
+ SWE_tank_high_velocity_cannon_2:0 "7,5 cm Lvkan m/36 L/60"
+ SWE_tank_high_velocity_cannon_3:0 "10,5 cm Lvkan m/42 L/50"
+ 
+ SWE_tank_heavy_cannon:0 "10,5 cm infkan m/45 L/15"
+ SWE_tank_heavy_cannon_2:0 "10,5 cm Pvkan m/44 L/21"
+ SWE_tank_heavy_cannon_3:1 "10,5 cm Lvkan m/34 L/42"
+ 
+ SWE_tank_medium_howitzer:0 "10,5 cm Haubits m/40 L/22"
+ SWE_tank_medium_howitzer_2:0 "12 cm Haubits m/14 L/15 "
+ SWE_tank_heavy_howitzer:0 "15 cm Haubits m/39 L/24"
+ 
+ SWE_tank_super_heavy_cannon:0 "12 cm akan m/50 L/50"
+
+ SWE_tank_rocket_launcher:0 "pansarskott m/45"
+ SWE_tank_rocket_launcher_2:0 "pansarskott m/46"
+
+ SWE_secondary_turret_hmg:1 "6.5mm ksp m/1914"
+ SWE_secondary_turret_small_cannon:1 "37 mm Pvkan m/38 L/45"
+ SWE_secondary_turret_close_support_gun:1 "75mm Pvkan m/41 L/31"
+
+ SWE_additional_machine_guns:0 "6.5mm ksp m/1914"
+ 
+#DEN
+ DEN_flamethrower:0 "Esp m/41"
+ 
+ DEN_tank_heavy_machine_gun:0 "6.5mm ksp m/1914"
+ DEN_tank_auto_cannon:0 "20 mm Madsen automatkanon"
+ DEN_tank_auto_cannon_2:0 "25 mm Bofors automatkanon"
+ 
+ DEN_tank_anti_air_cannon:0 "20 mm Lvkan m/40 L/70"
+ DEN_tank_anti_air_cannon_2:0 "25 mm Lvkan m/32 L/64"
+ DEN_tank_anti_air_cannon_3:0 "40 mm Lvkan m/36 L/60"
+ 
+ DEN_tank_close_support_gun:0 "7,5 cm Pvkan m/41 L/31"
+ 
+ DEN_tank_small_cannon:0 "3,7 cm Infkan m/34 L/27"
+ DEN_tank_small_cannon_2:0 "3,7 cm Pvkan m/38 L/45"
+ 
+ DEN_tank_medium_cannon:0 "7,5 cm Pvkan m/43 L/40"
+ DEN_tank_medium_cannon_2:0 "7,5 cm Pvkan m/43 L/54"
+ 
+ DEN_tank_high_velocity_cannon:0 "5,7 cm Pvkan m/43 L/47"
+ DEN_tank_high_velocity_cannon_2:0 "7,5 cm Lvkan m/36 L/60"
+ DEN_tank_high_velocity_cannon_3:0 "10,5 cm Lvkan m/42 L/50"
+ 
+ DEN_tank_heavy_cannon:0 "10,5 cm infkan m/45 L/15"
+ DEN_tank_heavy_cannon_2:0 "10,5 cm Pvkan m/44 L/21"
+ DEN_tank_heavy_cannon_3:1 "10,5 cm Lvkan m/34 L/42"
+ 
+ DEN_tank_medium_howitzer:0 "10,5 cm Haubits m/40 L/22"
+ DEN_tank_medium_howitzer_2:0 "12 cm Haubits m/14 L/15 "
+ DEN_tank_heavy_howitzer:0 "15 cm Haubits m/39 L/24"
+ 
+ DEN_tank_super_heavy_cannon:0 "12 cm akan m/50 L/50"
+
+ DEN_tank_rocket_launcher:0 "pansarskott m/45"
+ DEN_tank_rocket_launcher_2:0 "pansarskott m/46"
+
+ DEN_secondary_turret_hmg:1 "6.5mm ksp m/1914"
+ DEN_secondary_turret_small_cannon:1 "37 mm Pvkan m/38 L/45"
+ DEN_secondary_turret_close_support_gun:1 "75mm Pvkan m/41 L/31"
+
+ DEN_additional_machine_guns:0 "6.5mm ksp m/1914"
+ 
+#FIN
+ FIN_flamethrower:0 "Esp m/41"
+ 
+ FIN_tank_heavy_machine_gun:0 "6.5mm ksp m/1914"
+ FIN_tank_auto_cannon:0 "20 mm Madsen automatkanon"
+ FIN_tank_auto_cannon_2:0 "25 mm Bofors automatkanon"
+ 
+ FIN_tank_anti_air_cannon:0 "20 mm Lvkan m/40 L/70"
+ FIN_tank_anti_air_cannon_2:0 "25 mm Lvkan m/32 L/64"
+ FIN_tank_anti_air_cannon_3:0 "40 mm Lvkan m/36 L/60"
+ 
+ FIN_tank_close_support_gun:0 "7,5 cm Pvkan m/41 L/31"
+ 
+ FIN_tank_small_cannon:0 "3,7 cm Infkan m/34 L/27"
+ FIN_tank_small_cannon_2:0 "3,7 cm Pvkan m/38 L/45"
+ 
+ FIN_tank_medium_cannon:0 "7,5 cm Pvkan m/43 L/40"
+ FIN_tank_medium_cannon_2:0 "7,5 cm Pvkan m/43 L/54"
+ 
+ FIN_tank_high_velocity_cannon:0 "5,7 cm Pvkan m/43 L/47"
+ FIN_tank_high_velocity_cannon_2:0 "7,5 cm Lvkan m/36 L/60"
+ FIN_tank_high_velocity_cannon_3:0 "10,5 cm Lvkan m/42 L/50"
+ 
+ FIN_tank_heavy_cannon:0 "10,5 cm infkan m/45 L/15"
+ FIN_tank_heavy_cannon_2:0 "10,5 cm Pvkan m/44 L/21"
+ FIN_tank_heavy_cannon_3:1 "10,5 cm Lvkan m/34 L/42"
+ 
+ FIN_tank_medium_howitzer:0 "10,5 cm Haubits m/40 L/22"
+ FIN_tank_medium_howitzer_2:0 "12 cm Haubits m/14 L/15 "
+ FIN_tank_heavy_howitzer:0 "15 cm Haubits m/39 L/24"
+ 
+ FIN_tank_super_heavy_cannon:0 "12 cm akan m/50 L/50"
+
+ FIN_tank_rocket_launcher:0 "pansarskott m/45"
+ FIN_tank_rocket_launcher_2:0 "pansarskott m/46"
+
+ FIN_secondary_turret_hmg:1 "6.5mm ksp m/1914"
+ FIN_secondary_turret_small_cannon:1 "37 mm Pvkan m/38 L/45"
+ FIN_secondary_turret_close_support_gun:1 "75mm Pvkan m/41 L/31"
+
+ FIN_additional_machine_guns:0 "6.5mm ksp m/1914"
+ 
+#NOR
+ NOR_flamethrower:0 "Esp m/41"
+ 
+ NOR_tank_heavy_machine_gun:0 "6.5mm ksp m/1914"
+ NOR_tank_auto_cannon:0 "20 mm Madsen automatkanon"
+ NOR_tank_auto_cannon_2:0 "25 mm Bofors automatkanon"
+ 
+ NOR_tank_anti_air_cannon:0 "20 mm Lvkan m/40 L/70"
+ NOR_tank_anti_air_cannon_2:0 "25 mm Lvkan m/32 L/64"
+ NOR_tank_anti_air_cannon_3:0 "40 mm Lvkan m/36 L/60"
+ 
+ NOR_tank_close_support_gun:0 "7,5 cm Pvkan m/41 L/31"
+ 
+ NOR_tank_small_cannon:0 "3,7 cm Infkan m/34 L/27"
+ NOR_tank_small_cannon_2:0 "3,7 cm Pvkan m/38 L/45"
+ 
+ NOR_tank_medium_cannon:0 "7,5 cm Pvkan m/43 L/40"
+ NOR_tank_medium_cannon_2:0 "7,5 cm Pvkan m/43 L/54"
+ 
+ NOR_tank_high_velocity_cannon:0 "5,7 cm Pvkan m/43 L/47"
+ NOR_tank_high_velocity_cannon_2:0 "7,5 cm Lvkan m/36 L/60"
+ NOR_tank_high_velocity_cannon_3:0 "10,5 cm Lvkan m/42 L/50"
+ 
+ NOR_tank_heavy_cannon:0 "10,5 cm infkan m/45 L/15"
+ NOR_tank_heavy_cannon_2:0 "10,5 cm Pvkan m/44 L/21"
+ NOR_tank_heavy_cannon_3:1 "10,5 cm Lvkan m/34 L/42"
+ 
+ NOR_tank_medium_howitzer:0 "10,5 cm Haubits m/40 L/22"
+ NOR_tank_medium_howitzer_2:0 "12 cm Haubits m/14 L/15 "
+ NOR_tank_heavy_howitzer:0 "15 cm Haubits m/39 L/24"
+ 
+ NOR_tank_super_heavy_cannon:0 "12 cm akan m/50 L/50"
+
+ NOR_tank_rocket_launcher:0 "pansarskott m/45"
+ NOR_tank_rocket_launcher_2:0 "pansarskott m/46"
+
+ NOR_secondary_turret_hmg:1 "6.5mm ksp m/1914"
+ NOR_secondary_turret_small_cannon:1 "37 mm Pvkan m/38 L/45"
+ NOR_secondary_turret_close_support_gun:1 "75mm Pvkan m/41 L/31"
+
+ NOR_additional_machine_guns:0 "6.5mm ksp m/1914"
+ 
+ 
+ 
+ 
+#CAN
+ CAN_flamethrower:0 "Crocodile"
+ 
+ CAN_tank_heavy_machine_gun:0 "7.92 mm Besa machine gun"
+ 
+ CAN_tank_auto_cannon:0 "12.7 mm Besa machine gun"
+ CAN_tank_auto_cannon_2:0 "15 mm Besa machine gun"
+ 
+ CAN_tank_anti_air_cannon:0 "QF 2 Pounder Mark VIII 'pom-pom'"
+ CAN_tank_anti_air_cannon_2:0 "QF 3-inch 20 cwt"
+ CAN_tank_anti_air_cannon_3:0 "QF 3.7-inch AA gun"
+ 
+ CAN_tank_small_cannon:0 "QF 2 Pounder MK.I"
+ CAN_tank_small_cannon_2:0 "QF 2 Pounder MK.II"
+ CAN_tank_close_support_gun:0 "QF 3 pounder"
+ 
+ CAN_tank_medium_cannon:0 "QF 6 pounder Mk.III"
+ CAN_tank_medium_cannon_2:0 "QF 6 pounder Mk.V"
+ 
+ CAN_tank_high_velocity_cannon:0 "QF 75 mm HV MK.II"
+ CAN_tank_high_velocity_cannon_2:0 "QF 75 mm HV MK.V"
+ CAN_tank_high_velocity_cannon_3:0 "QF 77 mm HV"
+ 
+ CAN_tank_heavy_cannon:0 "QF 17 pounder Mk.II"
+ CAN_tank_heavy_cannon_2:0 "QF 20 pounder MK.III"
+ CAN_tank_heavy_cannon_3:1 "QF 25 pounder"
+ 
+ CAN_tank_medium_howitzer:0 "QF 3 inch Howitzer"
+ CAN_tank_medium_howitzer_2:0 "QF 4.5 inch Howitzer"
+ CAN_tank_heavy_howitzer:0 "BL 5.5 inch Howitzer"
+ 
+ CAN_tank_super_heavy_cannon:0 "QF 32 pounder"
+ 
+ CAN_tank_rocket_launcher:0 "3-inch RP-3"
+ CAN_tank_rocket_launcher_2:0 "6-inch 60lb SAP"
+
+ CAN_secondary_turret_hmg:1 "7.92 mm Besa machine gun"
+ CAN_secondary_turret_small_cannon:1 "QF 2 pounder MK.II"
+ CAN_secondary_turret_close_support_gun:1 "QF 3 pounder"
+
+ CAN_additional_machine_guns:0 "7.7 mm Vickers Mk I"
+ 
+#ENG
+ SAF_flamethrower:0 "Crocodile"
+ 
+ SAF_tank_heavy_machine_gun:0 "7.92 mm Besa machine gun"
+ 
+ SAF_tank_auto_cannon:0 "12.7 mm Besa machine gun"
+ SAF_tank_auto_cannon_2:0 "15 mm Besa machine gun"
+ 
+ SAF_tank_anti_air_cannon:0 "QF 2 Pounder Mark VIII 'pom-pom'"
+ SAF_tank_anti_air_cannon_2:0 "QF 3-inch 20 cwt"
+ SAF_tank_anti_air_cannon_3:0 "QF 3.7-inch AA gun"
+ 
+ SAF_tank_small_cannon:0 "QF 2 Pounder MK.I"
+ SAF_tank_small_cannon_2:0 "QF 2 Pounder MK.II"
+ SAF_tank_close_support_gun:0 "QF 3 pounder"
+ 
+ SAF_tank_medium_cannon:0 "QF 6 pounder Mk.III"
+ SAF_tank_medium_cannon_2:0 "QF 6 pounder Mk.V"
+ 
+ SAF_tank_high_velocity_cannon:0 "QF 75 mm HV MK.II"
+ SAF_tank_high_velocity_cannon_2:0 "QF 75 mm HV MK.V"
+ SAF_tank_high_velocity_cannon_3:0 "QF 77 mm HV"
+ 
+ SAF_tank_heavy_cannon:0 "QF 17 pounder Mk.II"
+ SAF_tank_heavy_cannon_2:0 "QF 20 pounder MK.III"
+ SAF_tank_heavy_cannon_3:1 "QF 25 pounder"
+ 
+ SAF_tank_medium_howitzer:0 "QF 3 inch Howitzer"
+ SAF_tank_medium_howitzer_2:0 "QF 4.5 inch Howitzer"
+ SAF_tank_heavy_howitzer:0 "BL 5.5 inch Howitzer"
+ 
+ SAF_tank_super_heavy_cannon:0 "QF 32 pounder"
+ 
+ SAF_tank_rocket_launcher:0 "3-inch RP-3"
+ SAF_tank_rocket_launcher_2:0 "6-inch 60lb SAP"
+
+ SAF_secondary_turret_hmg:1 "7.92 mm Besa machine gun"
+ SAF_secondary_turret_small_cannon:1 "QF 2 pounder MK.II"
+ SAF_secondary_turret_close_support_gun:1 "QF 3 pounder"
+
+ SAF_additional_machine_guns:0 "7.7 mm Vickers Mk I"
+ 
+#MAL
+ MAL_flamethrower:0 "Crocodile"
+ 
+ MAL_tank_heavy_machine_gun:0 "7.92 mm Besa machine gun"
+ 
+ MAL_tank_auto_cannon:0 "12.7 mm Besa machine gun"
+ MAL_tank_auto_cannon_2:0 "15 mm Besa machine gun"
+ 
+ MAL_tank_anti_air_cannon:0 "QF 2 Pounder Mark VIII 'pom-pom'"
+ MAL_tank_anti_air_cannon_2:0 "QF 3-inch 20 cwt"
+ MAL_tank_anti_air_cannon_3:0 "QF 3.7-inch AA gun"
+ 
+ MAL_tank_small_cannon:0 "QF 2 Pounder MK.I"
+ MAL_tank_small_cannon_2:0 "QF 2 Pounder MK.II"
+ MAL_tank_close_support_gun:0 "QF 3 pounder"
+ 
+ MAL_tank_medium_cannon:0 "QF 6 pounder Mk.III"
+ MAL_tank_medium_cannon_2:0 "QF 6 pounder Mk.V"
+ 
+ MAL_tank_high_velocity_cannon:0 "QF 75 mm HV MK.II"
+ MAL_tank_high_velocity_cannon_2:0 "QF 75 mm HV MK.V"
+ MAL_tank_high_velocity_cannon_3:0 "QF 77 mm HV"
+ 
+ MAL_tank_heavy_cannon:0 "QF 17 pounder Mk.II"
+ MAL_tank_heavy_cannon_2:0 "QF 20 pounder MK.III"
+ MAL_tank_heavy_cannon_3:1 "QF 25 pounder"
+ 
+ MAL_tank_medium_howitzer:0 "QF 3 inch Howitzer"
+ MAL_tank_medium_howitzer_2:0 "QF 4.5 inch Howitzer"
+ MAL_tank_heavy_howitzer:0 "BL 5.5 inch Howitzer"
+ 
+ MAL_tank_super_heavy_cannon:0 "QF 32 pounder"
+ 
+ MAL_tank_rocket_launcher:0 "3-inch RP-3"
+ MAL_tank_rocket_launcher_2:0 "6-inch 60lb SAP"
+
+ MAL_secondary_turret_hmg:1 "7.92 mm Besa machine gun"
+ MAL_secondary_turret_small_cannon:1 "QF 2 pounder MK.II"
+ MAL_secondary_turret_close_support_gun:1 "QF 3 pounder"
+
+ MAL_additional_machine_guns:0 "7.7 mm Vickers Mk I"
+ 
+#AST
+ AST_flamethrower:0 "Crocodile"
+ 
+ AST_tank_heavy_machine_gun:0 "7.92 mm Besa machine gun"
+ 
+ AST_tank_auto_cannon:0 "12.7 mm Besa machine gun"
+ AST_tank_auto_cannon_2:0 "15 mm Besa machine gun"
+ 
+ AST_tank_anti_air_cannon:0 "QF 2 Pounder Mark VIII 'pom-pom'"
+ AST_tank_anti_air_cannon_2:0 "QF 3-inch 20 cwt"
+ AST_tank_anti_air_cannon_3:0 "QF 3.7-inch AA gun"
+ 
+ AST_tank_small_cannon:0 "QF 2 Pounder MK.I"
+ AST_tank_small_cannon_2:0 "QF 2 Pounder MK.II"
+ AST_tank_close_support_gun:0 "QF 3 pounder"
+ 
+ AST_tank_medium_cannon:0 "QF 6 pounder Mk.III"
+ AST_tank_medium_cannon_2:0 "QF 6 pounder Mk.V"
+ 
+ AST_tank_high_velocity_cannon:0 "QF 75 mm HV MK.II"
+ AST_tank_high_velocity_cannon_2:0 "QF 75 mm HV MK.V"
+ AST_tank_high_velocity_cannon_3:0 "QF 77 mm HV"
+ 
+ AST_tank_heavy_cannon:0 "QF 17 pounder Mk.II"
+ AST_tank_heavy_cannon_2:0 "QF 20 pounder MK.III"
+ AST_tank_heavy_cannon_3:1 "QF 25 pounder"
+ 
+ AST_tank_medium_howitzer:0 "QF 3 inch Howitzer"
+ AST_tank_medium_howitzer_2:0 "QF 4.5 inch Howitzer"
+ AST_tank_heavy_howitzer:0 "BL 5.5 inch Howitzer"
+ 
+ AST_tank_super_heavy_cannon:0 "QF 32 pounder"
+ 
+ AST_tank_rocket_launcher:0 "3-inch RP-3"
+ AST_tank_rocket_launcher_2:0 "6-inch 60lb SAP"
+
+ AST_secondary_turret_hmg:1 "7.92 mm Besa machine gun"
+ AST_secondary_turret_small_cannon:1 "QF 2 pounder MK.II"
+ AST_secondary_turret_close_support_gun:1 "QF 3 pounder"
+
+ AST_additional_machine_guns:0 "7.7 mm Vickers Mk I"
+ 
+#NZL
+ NZL_flamethrower:0 "Crocodile"
+ 
+ NZL_tank_heavy_machine_gun:0 "7.92 mm Besa machine gun"
+ 
+ NZL_tank_auto_cannon:0 "12.7 mm Besa machine gun"
+ NZL_tank_auto_cannon_2:0 "15 mm Besa machine gun"
+ 
+ NZL_tank_anti_air_cannon:0 "QF 2 Pounder Mark VIII 'pom-pom'"
+ NZL_tank_anti_air_cannon_2:0 "QF 3-inch 20 cwt"
+ NZL_tank_anti_air_cannon_3:0 "QF 3.7-inch AA gun"
+ 
+ NZL_tank_small_cannon:0 "QF 2 Pounder MK.I"
+ NZL_tank_small_cannon_2:0 "QF 2 Pounder MK.II"
+ NZL_tank_close_support_gun:0 "QF 3 pounder"
+ 
+ NZL_tank_medium_cannon:0 "QF 6 pounder Mk.III"
+ NZL_tank_medium_cannon_2:0 "QF 6 pounder Mk.V"
+ 
+ NZL_tank_high_velocity_cannon:0 "QF 75 mm HV MK.II"
+ NZL_tank_high_velocity_cannon_2:0 "QF 75 mm HV MK.V"
+ NZL_tank_high_velocity_cannon_3:0 "QF 77 mm HV"
+ 
+ NZL_tank_heavy_cannon:0 "QF 17 pounder Mk.II"
+ NZL_tank_heavy_cannon_2:0 "QF 20 pounder MK.III"
+ NZL_tank_heavy_cannon_3:1 "QF 25 pounder"
+ 
+ NZL_tank_medium_howitzer:0 "QF 3 inch Howitzer"
+ NZL_tank_medium_howitzer_2:0 "QF 4.5 inch Howitzer"
+ NZL_tank_heavy_howitzer:0 "BL 5.5 inch Howitzer"
+ 
+ NZL_tank_super_heavy_cannon:0 "QF 32 pounder"
+ 
+ NZL_tank_rocket_launcher:0 "3-inch RP-3"
+ NZL_tank_rocket_launcher_2:0 "6-inch 60lb SAP"
+
+ NZL_secondary_turret_hmg:1 "7.92 mm Besa machine gun"
+ NZL_secondary_turret_small_cannon:1 "QF 2 pounder MK.II"
+ NZL_secondary_turret_close_support_gun:1 "QF 3 pounder"
+
+ NZL_additional_machine_guns:0 "7.7 mm Vickers Mk I"
+ 
+#RAJ
+ RAJ_flamethrower:0 "Crocodile"
+ 
+ RAJ_tank_heavy_machine_gun:0 "7.92 mm Besa machine gun"
+ 
+ RAJ_tank_auto_cannon:0 "12.7 mm Besa machine gun"
+ RAJ_tank_auto_cannon_2:0 "15 mm Besa machine gun"
+ 
+ RAJ_tank_anti_air_cannon:0 "QF 2 Pounder Mark VIII 'pom-pom'"
+ RAJ_tank_anti_air_cannon_2:0 "QF 3-inch 20 cwt"
+ RAJ_tank_anti_air_cannon_3:0 "QF 3.7-inch AA gun"
+ 
+ RAJ_tank_small_cannon:0 "QF 2 Pounder MK.I"
+ RAJ_tank_small_cannon_2:0 "QF 2 Pounder MK.II"
+ RAJ_tank_close_support_gun:0 "QF 3 pounder"
+ 
+ RAJ_tank_medium_cannon:0 "QF 6 pounder Mk.III"
+ RAJ_tank_medium_cannon_2:0 "QF 6 pounder Mk.V"
+ 
+ RAJ_tank_high_velocity_cannon:0 "QF 75 mm HV MK.II"
+ RAJ_tank_high_velocity_cannon_2:0 "QF 75 mm HV MK.V"
+ RAJ_tank_high_velocity_cannon_3:0 "QF 77 mm HV"
+ 
+ RAJ_tank_heavy_cannon:0 "QF 17 pounder Mk.II"
+ RAJ_tank_heavy_cannon_2:0 "QF 20 pounder MK.III"
+ RAJ_tank_heavy_cannon_3:1 "QF 25 pounder"
+ 
+ RAJ_tank_medium_howitzer:0 "QF 3 inch Howitzer"
+ RAJ_tank_medium_howitzer_2:0 "QF 4.5 inch Howitzer"
+ RAJ_tank_heavy_howitzer:0 "BL 5.5 inch Howitzer"
+ 
+ RAJ_tank_super_heavy_cannon:0 "QF 32 pounder"
+ 
+ RAJ_tank_rocket_launcher:0 "3-inch RP-3"
+ RAJ_tank_rocket_launcher_2:0 "6-inch 60lb SAP"
+
+ RAJ_secondary_turret_hmg:1 "7.92 mm Besa machine gun"
+ RAJ_secondary_turret_small_cannon:1 "QF 2 pounder MK.II"
+ RAJ_secondary_turret_close_support_gun:1 "QF 3 pounder"
+
+ RAJ_additional_machine_guns:0 "7.7 mm Vickers Mk I"
+ 
+#MAN
+ MAN_flamethrower:0 "Type 93 Flamethrower"
+ 
+ MAN_tank_heavy_machine_gun:0 "Type 91 6.5 mm Machine Gun"
+ 
+ MAN_tank_auto_cannon:0 "Type 92 13.3 mm Heavy Machine Gun"
+ MAN_tank_auto_cannon_2:0 "Type 97 20 mm automatic cannon"
+ 
+ MAN_tank_anti_air_cannon:0 "Type 98 20 mm AA gun"
+ MAN_tank_anti_air_cannon_2:0 "Type 96 25 mm AA gun"
+ MAN_tank_anti_air_cannon_3:0 "Type 5 40 mm AA gun"
+ 
+ MAN_tank_small_cannon:0 "Type 94 37 mm L/37"
+ MAN_tank_small_cannon_2:0 "Type 1 37 mm L/50"
+ 
+ MAN_tank_close_support_gun:0 "Type 97 57 mm L/18"
+ 
+ MAN_tank_medium_cannon:0 "Type 1 47 mm L/48"
+ MAN_tank_medium_cannon_2:0 "Type 1 47 mm II L/48"
+ 
+ MAN_tank_high_velocity_cannon:0 "Type 2 57 mm L/48"
+ MAN_tank_high_velocity_cannon_2:0 "Type 5 75 mm II L/56"
+ MAN_tank_high_velocity_cannon_3:0 "Type 92 105 mm L/55"
+ 
+ MAN_tank_heavy_cannon:0 "Type 99 75 mm L/24"
+ MAN_tank_heavy_cannon_2:0 "Type 3 75 mm II L/38"
+ MAN_tank_heavy_cannon_3:1 "Type 3 120 mm L/12"
+ 
+ MAN_tank_medium_howitzer:0 "Type 38 75 mm howitzer"
+ MAN_tank_medium_howitzer_2:0 "Type 92 105 mm howitzer"
+ MAN_tank_heavy_howitzer:0 "Type 38 150 mm howitzer"
+ 
+ MAN_tank_super_heavy_cannon:0 "Type 3 140 mm L/50"
+ 
+ MAN_tank_rocket_launcher:0 "Type 4 70 mm AT Rocket"
+ MAN_tank_rocket_launcher_2:0 "Type 4 200 mm AT Rocket"
+
+ MAN_secondary_turret_hmg:1 "Type 91 6.5 mm Machine Gun"
+ MAN_secondary_turret_small_cannon:1 "Type 1 37 mm L/50"
+ MAN_secondary_turret_close_support_gun:1 "Type 97 57 mm L/18"
+
+ MAN_additional_machine_guns:0 "Type 91 6.5 mm Machine Gun"
+ 
+#MEN
+ MEN_flamethrower:0 "Type 93 Flamethrower"
+ 
+ MEN_tank_heavy_machine_gun:0 "Type 91 6.5 mm Machine Gun"
+ 
+ MEN_tank_auto_cannon:0 "Type 92 13.3 mm Heavy Machine Gun"
+ MEN_tank_auto_cannon_2:0 "Type 97 20 mm automatic cannon"
+ 
+ MEN_tank_anti_air_cannon:0 "Type 98 20 mm AA gun"
+ MEN_tank_anti_air_cannon_2:0 "Type 96 25 mm AA gun"
+ MEN_tank_anti_air_cannon_3:0 "Type 5 40 mm AA gun"
+ 
+ MEN_tank_small_cannon:0 "Type 94 37 mm L/37"
+ MEN_tank_small_cannon_2:0 "Type 1 37 mm L/50"
+ 
+ MEN_tank_close_support_gun:0 "Type 97 57 mm L/18"
+ 
+ MEN_tank_medium_cannon:0 "Type 1 47 mm L/48"
+ MEN_tank_medium_cannon_2:0 "Type 1 47 mm II L/48"
+ 
+ MEN_tank_high_velocity_cannon:0 "Type 2 57 mm L/48"
+ MEN_tank_high_velocity_cannon_2:0 "Type 5 75 mm II L/56"
+ MEN_tank_high_velocity_cannon_3:0 "Type 92 105 mm L/55"
+ 
+ MEN_tank_heavy_cannon:0 "Type 99 75 mm L/24"
+ MEN_tank_heavy_cannon_2:0 "Type 3 75 mm II L/38"
+ MEN_tank_heavy_cannon_3:1 "Type 3 120 mm L/12"
+ 
+ MEN_tank_medium_howitzer:0 "Type 38 75 mm howitzer"
+ MEN_tank_medium_howitzer_2:0 "Type 92 105 mm howitzer"
+ MEN_tank_heavy_howitzer:0 "Type 38 150 mm howitzer"
+ 
+ MEN_tank_super_heavy_cannon:0 "Type 3 140 mm L/50"
+ 
+ MEN_tank_rocket_launcher:0 "Type 4 70 mm AT Rocket"
+ MEN_tank_rocket_launcher_2:0 "Type 4 200 mm AT Rocket"
+
+ MEN_secondary_turret_hmg:1 "Type 91 6.5 mm Machine Gun"
+ MEN_secondary_turret_small_cannon:1 "Type 1 37 mm L/50"
+ MEN_secondary_turret_close_support_gun:1 "Type 97 57 mm L/18"
+
+ MEN_additional_machine_guns:0 "Type 91 6.5 mm Machine Gun"
+ 
+#SHX
+ SHX_flamethrower:0 "Type 93 Flamethrower"
+ 
+ SHX_tank_heavy_machine_gun:0 "Type 91 6.5 mm Machine Gun"
+ 
+ SHX_tank_auto_cannon:0 "Type 92 13.3 mm Heavy Machine Gun"
+ SHX_tank_auto_cannon_2:0 "Type 97 20 mm automatic cannon"
+ 
+ SHX_tank_anti_air_cannon:0 "Type 98 20 mm AA gun"
+ SHX_tank_anti_air_cannon_2:0 "Type 96 25 mm AA gun"
+ SHX_tank_anti_air_cannon_3:0 "Type 5 40 mm AA gun"
+ 
+ SHX_tank_small_cannon:0 "Type 94 37 mm L/37"
+ SHX_tank_small_cannon_2:0 "Type 1 37 mm L/50"
+ 
+ SHX_tank_close_support_gun:0 "Type 97 57 mm L/18"
+ 
+ SHX_tank_medium_cannon:0 "Type 1 47 mm L/48"
+ SHX_tank_medium_cannon_2:0 "Type 1 47 mm II L/48"
+ 
+ SHX_tank_high_velocity_cannon:0 "Type 2 57 mm L/48"
+ SHX_tank_high_velocity_cannon_2:0 "Type 5 75 mm II L/56"
+ SHX_tank_high_velocity_cannon_3:0 "Type 92 105 mm L/55"
+ 
+ SHX_tank_heavy_cannon:0 "Type 99 75 mm L/24"
+ SHX_tank_heavy_cannon_2:0 "Type 3 75 mm II L/38"
+ SHX_tank_heavy_cannon_3:1 "Type 3 120 mm L/12"
+ 
+ SHX_tank_medium_howitzer:0 "Type 38 75 mm howitzer"
+ SHX_tank_medium_howitzer_2:0 "Type 92 105 mm howitzer"
+ SHX_tank_heavy_howitzer:0 "Type 38 150 mm howitzer"
+ 
+ SHX_tank_super_heavy_cannon:0 "Type 3 140 mm L/50"
+ 
+ SHX_tank_rocket_launcher:0 "Type 4 70 mm AT Rocket"
+ SHX_tank_rocket_launcher_2:0 "Type 4 200 mm AT Rocket"
+
+ SHX_secondary_turret_hmg:1 "Type 91 6.5 mm Machine Gun"
+ SHX_secondary_turret_small_cannon:1 "Type 1 37 mm L/50"
+ SHX_secondary_turret_close_support_gun:1 "Type 97 57 mm L/18"
+
+ SHX_additional_machine_guns:0 "Type 91 6.5 mm Machine Gun"
+ 
+#PRC
+ PRC_flamethrower:0 "ROKS-2"
+ 
+ PRC_tank_heavy_machine_gun:0 "7.62 mm DT-29"
+ 
+ PRC_tank_auto_cannon:0 "12.7 mm ShVAK"
+ PRC_tank_auto_cannon_2:0 "20 mm ShVAK"
+ 
+ PRC_tank_anti_air_cannon:0 "12.7 mm DShK 1938"
+ PRC_tank_anti_air_cannon_2:0 "25 mm 72-K"
+ PRC_tank_anti_air_cannon_3:0 "37 mm 61-K"
+
+ PRC_tank_small_cannon:0 "37 mm PS-2 L/45"
+ PRC_tank_small_cannon_2:0 "45 mm 20-K L/46"
+ 
+ PRC_tank_close_support_gun:0 "76 mm KT-28 L/16"
+ 
+ PRC_tank_medium_cannon:0 "76.2 mm F-34 L/41"
+ PRC_tank_medium_cannon_2:0 "85 mm ZiS-S-53 L/54"
+ 
+ PRC_tank_high_velocity_cannon:0 "57 mm ZiS-4 L/73"
+ PRC_tank_high_velocity_cannon_2:0 "85 mm D-5T-85BM L/64"
+ PRC_tank_high_velocity_cannon_3:0 "100 mm M-63 L/58"
+ 
+ PRC_tank_heavy_cannon:0 "100 mm S-34 L/54"
+ PRC_tank_heavy_cannon_2:0 "107 mm ZIS-6 L/43"
+ PRC_tank_heavy_cannon_3:1 "122 mm D-25T L/48"
+ 
+ PRC_tank_medium_howitzer:0 "152 mm M-10T L/24"
+ PRC_tank_medium_howitzer_2:0 "203 mm B-4 L/24"
+ PRC_tank_heavy_howitzer:0 "280 mm Br-5 L/11"
+ 
+ PRC_tank_super_heavy_cannon:0 "130 mm S-70 L/39"
+
+ PRC_tank_rocket_launcher:0 "82 mm M-8"
+ PRC_tank_rocket_launcher_2:0 "300 mm M-30"
+
+ PRC_secondary_turret_hmg:1 "7.62 mm DT-29"
+ PRC_secondary_turret_small_cannon:1 "37 mm PS-2 L/45"
+ PRC_secondary_turret_close_support_gun:1 "45 mm 20-K L/46"
+
+ PRC_additional_machine_guns:0 "7.62 mm DT-29"
+
+#SIK
+ SIK_flamethrower:0 "ROKS-2"
+ 
+ SIK_tank_heavy_machine_gun:0 "7.62 mm DT-29"
+ 
+ SIK_tank_auto_cannon:0 "12.7 mm ShVAK"
+ SIK_tank_auto_cannon_2:0 "20 mm ShVAK"
+ 
+ SIK_tank_anti_air_cannon:0 "12.7 mm DShK 1938"
+ SIK_tank_anti_air_cannon_2:0 "25 mm 72-K"
+ SIK_tank_anti_air_cannon_3:0 "37 mm 61-K"
+
+ SIK_tank_small_cannon:0 "37 mm PS-2 L/45"
+ SIK_tank_small_cannon_2:0 "45 mm 20-K L/46"
+ 
+ SIK_tank_close_support_gun:0 "76 mm KT-28 L/16"
+ 
+ SIK_tank_medium_cannon:0 "76.2 mm F-34 L/41"
+ SIK_tank_medium_cannon_2:0 "85 mm ZiS-S-53 L/54"
+ 
+ SIK_tank_high_velocity_cannon:0 "57 mm ZiS-4 L/73"
+ SIK_tank_high_velocity_cannon_2:0 "85 mm D-5T-85BM L/64"
+ SIK_tank_high_velocity_cannon_3:0 "100 mm M-63 L/58"
+ 
+ SIK_tank_heavy_cannon:0 "100 mm S-34 L/54"
+ SIK_tank_heavy_cannon_2:0 "107 mm ZIS-6 L/43"
+ SIK_tank_heavy_cannon_3:1 "122 mm D-25T L/48"
+ 
+ SIK_tank_medium_howitzer:0 "152 mm M-10T L/24"
+ SIK_tank_medium_howitzer_2:0 "203 mm B-4 L/24"
+ SIK_tank_heavy_howitzer:0 "280 mm Br-5 L/11"
+ 
+ SIK_tank_super_heavy_cannon:0 "130 mm S-70 L/39"
+
+ SIK_tank_rocket_launcher:0 "82 mm M-8"
+ SIK_tank_rocket_launcher_2:0 "300 mm M-30"
+
+ SIK_secondary_turret_hmg:1 "7.62 mm DT-29"
+ SIK_secondary_turret_small_cannon:1 "37 mm PS-2 L/45"
+ SIK_secondary_turret_close_support_gun:1 "45 mm 20-K L/46"
+
+ SIK_additional_machine_guns:0 "7.62 mm DT-29"
+
+#CHI
+ CHI_flamethrower:0 "M2 flamethrower"
+ 
+ CHI_tank_heavy_machine_gun:0 "7,92 mm MG34"
+ CHI_tank_auto_cannon:0 "2 cm KwK 30 L/55"
+ CHI_tank_auto_cannon_2:0 "2 cm KwK 38 L/55"
+ 
+ CHI_tank_anti_air_cannon:0 "2 cm FlaK 38 L/65"
+ CHI_tank_anti_air_cannon_2:0 "QF 2 Pounder Mark VIII 'pom-pom'"
+ CHI_tank_anti_air_cannon_3:0 ""Bofors 40 mm Automatic Gun L/60"
+ 
+ CHI_tank_close_support_gun:0 "M6 37 mm L/56"
+ 
+ CHI_tank_small_cannon:0 "M5 37 mm L/55"
+ CHI_tank_small_cannon_2:0 "45mm 20-K L/46"
+ 
+ CHI_tank_medium_cannon:0 "Type 1 47 mm L/48"
+ CHI_tank_medium_cannon_2:0 "QF 6 pounder Mk.V"
+ 
+ CHI_tank_high_velocity_cannon:0 "QF 2 Pounder MK.II"
+ CHI_tank_high_velocity_cannon_2:0 "M1 57 mm L/50"
+ CHI_tank_high_velocity_cannon_3:0 "M2 75 mm L/9"
+ 
+ CHI_tank_heavy_cannon:0 "Type 99 75 mm L/24"
+ CHI_tank_heavy_cannon_2:0 "M3 75 mm L/40"
+ CHI_tank_heavy_cannon_3:1 "M3A1 90 mm L/52"
+ 
+ CHI_tank_medium_howitzer:0 "M2 75 mm L/18"
+ CHI_tank_medium_howitzer_2:0 "10,5 cm leFH 18M L/28"
+ CHI_tank_heavy_howitzer:0 "15 cm sFH 18 L/30"
+ 
+ CHI_tank_super_heavy_cannon:0 "Type 94 105 mm L/34"
+
+ CHI_tank_rocket_launcher:0 "M1 Bazooka"
+ CHI_tank_rocket_launcher_2:0 "Type 4 70 mm AT Rocket"
+
+ CHI_secondary_turret_hmg:1 "7,92 mm MG34"
+ CHI_secondary_turret_small_cannon:1 "2 cm KwK 38 L/55"
+ CHI_secondary_turret_close_support_gun:1 "M6 37 mm L/56"
+
+ CHI_additional_machine_guns:0 "7,92 mm MG34"
+ 
+#YUN
+ YUN_flamethrower:0 "M2 flamethrower"
+ 
+ YUN_tank_heavy_machine_gun:0 "7,92 mm MG34"
+ YUN_tank_auto_cannon:0 "2 cm KwK 30 L/55"
+ YUN_tank_auto_cannon_2:0 "2 cm KwK 38 L/55"
+ 
+ YUN_tank_anti_air_cannon:0 "2 cm FlaK 38 L/65"
+ YUN_tank_anti_air_cannon_2:0 "QF 2 Pounder Mark VIII 'pom-pom'"
+ YUN_tank_anti_air_cannon_3:0 ""Bofors 40 mm Automatic Gun L/60"
+ 
+ YUN_tank_close_support_gun:0 "M6 37 mm L/56"
+ 
+ YUN_tank_small_cannon:0 "M5 37 mm L/55"
+ YUN_tank_small_cannon_2:0 "45mm 20-K L/46"
+ 
+ YUN_tank_medium_cannon:0 "Type 1 47 mm L/48"
+ YUN_tank_medium_cannon_2:0 "QF 6 pounder Mk.V"
+ 
+ YUN_tank_high_velocity_cannon:0 "QF 2 Pounder MK.II"
+ YUN_tank_high_velocity_cannon_2:0 "M1 57 mm L/50"
+ YUN_tank_high_velocity_cannon_3:0 "M2 75 mm L/9"
+ 
+ YUN_tank_heavy_cannon:0 "Type 99 75 mm L/24"
+ YUN_tank_heavy_cannon_2:0 "M3 75 mm L/40"
+ YUN_tank_heavy_cannon_3:1 "M3A1 90 mm L/52"
+ 
+ YUN_tank_medium_howitzer:0 "M2 75 mm L/18"
+ YUN_tank_medium_howitzer_2:0 "10,5 cm leFH 18M L/28"
+ YUN_tank_heavy_howitzer:0 "15 cm sFH 18 L/30"
+ 
+ YUN_tank_super_heavy_cannon:0 "Type 94 105 mm L/34"
+
+ YUN_tank_rocket_launcher:0 "M1 Bazooka"
+ YUN_tank_rocket_launcher_2:0 "Type 4 70 mm AT Rocket"
+
+ YUN_secondary_turret_hmg:1 "7,92 mm MG34"
+ YUN_secondary_turret_small_cannon:1 "2 cm KwK 38 L/55"
+ YUN_secondary_turret_close_support_gun:1 "M6 37 mm L/56"
+
+ YUN_additional_machine_guns:0 "7,92 mm MG34"
+
+#GXC
+ GXC_flamethrower:0 "Type 93 Flamethrower"
+ 
+ GXC_tank_heavy_machine_gun:0 "Type 91 6.5 mm Machine Gun"
+ 
+ GXC_tank_auto_cannon:0 "Type 92 13.3 mm Heavy Machine Gun"
+ GXC_tank_auto_cannon_2:0 "Type 97 20 mm automatic cannon"
+ 
+ GXC_tank_anti_air_cannon:0 "Type 98 20 mm AA gun"
+ GXC_tank_anti_air_cannon_2:0 "Type 96 25 mm AA gun"
+ GXC_tank_anti_air_cannon_3:0 "Type 5 40 mm AA gun"
+ 
+ GXC_tank_small_cannon:0 "Type 94 37 mm L/37"
+ GXC_tank_small_cannon_2:0 "Type 1 37 mm L/50"
+ 
+ GXC_tank_close_support_gun:0 "Type 97 57 mm L/18"
+ 
+ GXC_tank_medium_cannon:0 "Type 1 47 mm L/48"
+ GXC_tank_medium_cannon_2:0 "Type 1 47 mm II L/48"
+ 
+ GXC_tank_high_velocity_cannon:0 "Type 2 57 mm L/48"
+ GXC_tank_high_velocity_cannon_2:0 "Type 5 75 mm II L/56"
+ GXC_tank_high_velocity_cannon_3:0 "Type 92 105 mm L/55"
+ 
+ GXC_tank_heavy_cannon:0 "Type 99 75 mm L/24"
+ GXC_tank_heavy_cannon_2:0 "Type 3 75 mm II L/38"
+ GXC_tank_heavy_cannon_3:1 "Type 3 120 mm L/12"
+ 
+ GXC_tank_medium_howitzer:0 "Type 38 75 mm howitzer"
+ GXC_tank_medium_howitzer_2:0 "Type 92 105 mm howitzer"
+ GXC_tank_heavy_howitzer:0 "Type 38 150 mm howitzer"
+ 
+ GXC_tank_super_heavy_cannon:0 "Type 3 140 mm L/50"
+ 
+ GXC_tank_rocket_launcher:0 "Type 4 70 mm AT Rocket"
+ GXC_tank_rocket_launcher_2:0 "Type 4 200 mm AT Rocket"
+
+ GXC_secondary_turret_hmg:1 "Type 91 6.5 mm Machine Gun"
+ GXC_secondary_turret_small_cannon:1 "Type 1 37 mm L/50"
+ GXC_secondary_turret_close_support_gun:1 "Type 97 57 mm L/18"
+
+ GXC_additional_machine_guns:0 "Type 91 6.5 mm Machine Gun"
+
+#XSM
+ XSM_flamethrower:0 "M2 flamethrower"
+ 
+ XSM_tank_heavy_machine_gun:0 "7,92 mm MG34"
+ XSM_tank_auto_cannon:0 "2 cm KwK 30 L/55"
+ XSM_tank_auto_cannon_2:0 "2 cm KwK 38 L/55"
+ 
+ XSM_tank_anti_air_cannon:0 "2 cm FlaK 38 L/65"
+ XSM_tank_anti_air_cannon_2:0 "QF 2 Pounder Mark VIII 'pom-pom'"
+ XSM_tank_anti_air_cannon_3:0 ""Bofors 40 mm Automatic Gun L/60"
+ 
+ XSM_tank_close_support_gun:0 "M6 37 mm L/56"
+ 
+ XSM_tank_small_cannon:0 "M5 37 mm L/55"
+ XSM_tank_small_cannon_2:0 "45mm 20-K L/46"
+ 
+ XSM_tank_medium_cannon:0 "Type 1 47 mm L/48"
+ XSM_tank_medium_cannon_2:0 "QF 6 pounder Mk.V"
+ 
+ XSM_tank_high_velocity_cannon:0 "QF 2 Pounder MK.II"
+ XSM_tank_high_velocity_cannon_2:0 "M1 57 mm L/50"
+ XSM_tank_high_velocity_cannon_3:0 "M2 75 mm L/9"
+ 
+ XSM_tank_heavy_cannon:0 "Type 99 75 mm L/24"
+ XSM_tank_heavy_cannon_2:0 "M3 75 mm L/40"
+ XSM_tank_heavy_cannon_3:1 "M3A1 90 mm L/52"
+ 
+ XSM_tank_medium_howitzer:0 "M2 75 mm L/18"
+ XSM_tank_medium_howitzer_2:0 "10,5 cm leFH 18M L/28"
+ XSM_tank_heavy_howitzer:0 "15 cm sFH 18 L/30"
+ 
+ XSM_tank_super_heavy_cannon:0 "Type 94 105 mm L/34"
+
+ XSM_tank_rocket_launcher:0 "M1 Bazooka"
+ XSM_tank_rocket_launcher_2:0 "Type 4 70 mm AT Rocket"
+
+ XSM_secondary_turret_hmg:1 "7,92 mm MG34"
+ XSM_secondary_turret_small_cannon:1 "2 cm KwK 38 L/55"
+ XSM_secondary_turret_close_support_gun:1 "M6 37 mm L/56"
+
+ XSM_additional_machine_guns:0 "7,92 mm MG34"
+
+#MON
+ MON_flamethrower:0 "ROKS-2"
+ 
+ MON_tank_heavy_machine_gun:0 "7.62 mm DT-29"
+ 
+ MON_tank_auto_cannon:0 "12.7 mm ShVAK"
+ MON_tank_auto_cannon_2:0 "20 mm ShVAK"
+ 
+ MON_tank_anti_air_cannon:0 "12.7 mm DShK 1938"
+ MON_tank_anti_air_cannon_2:0 "25 mm 72-K"
+ MON_tank_anti_air_cannon_3:0 "37 mm 61-K"
+
+ MON_tank_small_cannon:0 "37 mm PS-2 L/45"
+ MON_tank_small_cannon_2:0 "45 mm 20-K L/46"
+ 
+ MON_tank_close_support_gun:0 "76 mm KT-28 L/16"
+ 
+ MON_tank_medium_cannon:0 "76.2 mm F-34 L/41"
+ MON_tank_medium_cannon_2:0 "85 mm ZiS-S-53 L/54"
+ 
+ MON_tank_high_velocity_cannon:0 "57 mm ZiS-4 L/73"
+ MON_tank_high_velocity_cannon_2:0 "85 mm D-5T-85BM L/64"
+ MON_tank_high_velocity_cannon_3:0 "100 mm M-63 L/58"
+ 
+ MON_tank_heavy_cannon:0 "100 mm S-34 L/54"
+ MON_tank_heavy_cannon_2:0 "107 mm ZIS-6 L/43"
+ MON_tank_heavy_cannon_3:1 "122 mm D-25T L/48"
+ 
+ MON_tank_medium_howitzer:0 "152 mm M-10T L/24"
+ MON_tank_medium_howitzer_2:0 "203 mm B-4 L/24"
+ MON_tank_heavy_howitzer:0 "280 mm Br-5 L/11"
+ 
+ MON_tank_super_heavy_cannon:0 "130 mm S-70 L/39"
+
+ MON_tank_rocket_launcher:0 "82 mm M-8"
+ MON_tank_rocket_launcher_2:0 "300 mm M-30"
+
+ MON_secondary_turret_hmg:1 "7.62 mm DT-29"
+ MON_secondary_turret_small_cannon:1 "37 mm PS-2 L/45"
+ MON_secondary_turret_close_support_gun:1 "45 mm 20-K L/46"
+
+ MON_additional_machine_guns:0 "7.62 mm DT-29"
+
+#TAN
+ TAN_flamethrower:0 "ROKS-2"
+ 
+ TAN_tank_heavy_machine_gun:0 "7.62 mm DT-29"
+ 
+ TAN_tank_auto_cannon:0 "12.7 mm ShVAK"
+ TAN_tank_auto_cannon_2:0 "20 mm ShVAK"
+ 
+ TAN_tank_anti_air_cannon:0 "12.7 mm DShK 1938"
+ TAN_tank_anti_air_cannon_2:0 "25 mm 72-K"
+ TAN_tank_anti_air_cannon_3:0 "37 mm 61-K"
+
+ TAN_tank_small_cannon:0 "37 mm PS-2 L/45"
+ TAN_tank_small_cannon_2:0 "45 mm 20-K L/46"
+ 
+ TAN_tank_close_support_gun:0 "76 mm KT-28 L/16"
+ 
+ TAN_tank_medium_cannon:0 "76.2 mm F-34 L/41"
+ TAN_tank_medium_cannon_2:0 "85 mm ZiS-S-53 L/54"
+ 
+ TAN_tank_high_velocity_cannon:0 "57 mm ZiS-4 L/73"
+ TAN_tank_high_velocity_cannon_2:0 "85 mm D-5T-85BM L/64"
+ TAN_tank_high_velocity_cannon_3:0 "100 mm M-63 L/58"
+ 
+ TAN_tank_heavy_cannon:0 "100 mm S-34 L/54"
+ TAN_tank_heavy_cannon_2:0 "107 mm ZIS-6 L/43"
+ TAN_tank_heavy_cannon_3:1 "122 mm D-25T L/48"
+ 
+ TAN_tank_medium_howitzer:0 "152 mm M-10T L/24"
+ TAN_tank_medium_howitzer_2:0 "203 mm B-4 L/24"
+ TAN_tank_heavy_howitzer:0 "280 mm Br-5 L/11"
+ 
+ TAN_tank_super_heavy_cannon:0 "130 mm S-70 L/39"
+
+ TAN_tank_rocket_launcher:0 "82 mm M-8"
+ TAN_tank_rocket_launcher_2:0 "300 mm M-30"
+
+ TAN_secondary_turret_hmg:1 "7.62 mm DT-29"
+ TAN_secondary_turret_small_cannon:1 "37 mm PS-2 L/45"
+ TAN_secondary_turret_close_support_gun:1 "45 mm 20-K L/46"
+
+ TAN_additional_machine_guns:0 "7.62 mm DT-29"

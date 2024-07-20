@@ -1,0 +1,286 @@
+# DO NOT MODIFY/REUPLOAD/RE-DISTRIBUTE WITHOUT MY PERMISSION - IF YOU WANT TO USE IT IN YOUR MOD CONTACT ME
+
+############
+# SHIPS
+############
+
+####
+# BATTLESHIP
+####
+
+# BISMARK
+
+animation = {
+	name = "bismark_battleship_death_animation"
+	file = "bismark_battleship_death.anim"
+}
+
+animation = {
+	name = "bismark_battleship_attack_animation"
+	file = "bismark_battleship_attack.anim"
+}
+
+animation = {
+	name = "bismark_battleship_idle_animation"
+	file = "bismark_battleship_idle.anim"
+}
+
+animation = {
+	name = "bismark_battleship_defend_animation"
+	file = "bismark_battleship_defend.anim"
+}
+
+# IOWA
+
+animation = {
+	name = "iowa_battleship_death_animation"
+	file = "iowa_battleship_death.anim"
+}
+
+animation = {
+	name = "iowa_battleship_attack_animation"
+	file = "iowa_battleship_attack.anim"
+}
+
+animation = {
+	name = "iowa_battleship_idle_animation"
+	file = "iowa_battleship_idle.anim"
+}
+
+animation = {
+	name = "iowa_battleship_defend_animation"
+	file = "iowa_battleship_defend.anim"
+}
+
+####
+# CARRIER
+####
+animation = {
+	name = "essex_carrier_death_animation"
+	file = "essex_carrier_death.anim"
+}
+
+animation = {
+	name = "essex_carrier_death2_animation"
+	file = "essex_carrier_death2.anim"
+}
+
+animation = {
+	name = "essex_carrier_idle_animation"
+	file = "essex_carrier_idle.anim"
+}
+
+
+
+
+####
+# DESTROYER
+####
+animation = {
+	name = "narvik_destroyer_death_animation"
+	file = "narvik_destroyer_death.anim"
+}
+
+animation = {
+	name = "narvik_destroyer_attack_animation"
+	file = "narvik_destroyer_attack.anim"
+}
+
+animation = {
+	name = "narvik_destroyer_defend_animation"
+	file = "narvik_destroyer_defend.anim"
+}
+
+animation = {
+	name = "narvik_destroyer_idle_animation"
+	file = "narvik_destroyer_idle.anim"
+}
+
+
+
+
+####
+# FREIGHTER
+####
+animation = {
+	name = "generic_freighter_death_animation"
+	file = "generic_freighter_death.anim"
+}
+
+animation = {
+	name = "generic_freighter_idle_animation"
+	file = "generic_freighter_idle.anim"
+}
+
+
+
+
+####
+# FREIGHTER LP
+####
+animation = {
+	name = "generic_freighter_LP_death_animation"
+	file = "generic_freighter_LP_death.anim"
+}
+
+animation = {
+	name = "generic_freighter_LP_idle_animation"
+	file = "generic_freighter_LP_idle.anim"
+}
+
+
+
+
+####
+# SCHARNHORST ALT 0
+####
+animation = {
+	name = "scharnhorst_battlecruiser_alt_0_death_animation"
+	file = "scharnhorst_battlecruiser_alt_0_death.anim"
+}
+
+animation = {
+	name = "scharnhorst_battlecruiser_alt_0_attack_animation"
+	file = "scharnhorst_battlecruiser_alt_0_attack.anim"
+}
+
+animation = {
+	name = "scharnhorst_battlecruiser_alt_0_defend_animation"
+	file = "scharnhorst_battlecruiser_alt_0_defend.anim"
+}
+
+animation = {
+	name = "scharnhorst_battlecruiser_alt_0_idle_animation"
+	file = "scharnhorst_battlecruiser_alt_0_idle.anim"
+}
+
+####
+# BATTLE CRUISER
+####
+animation = {
+	name = "agir_battlecruiser_death_animation"
+	file = "agir_battlecruiser_death.anim"
+}
+
+animation = {
+	name = "agir_battlecruiser_attack_animation"
+	file = "agir_battlecruiser_attack.anim"
+}
+
+animation = {
+	name = "agir_battlecruiser_defend_animation"
+	file = "agir_battlecruiser_defend.anim"
+}
+
+animation = {
+	name = "agir_battlecruiser_idle_animation"
+	file = "agir_battlecruiser_idle.anim"
+}
+
+
+
+####
+# LIGHT CRUISER
+####
+animation = {
+	name = "königsberg_lightcruiser_death_animation"
+	file = "königsberg_lightcruiser_death.anim"
+}
+
+animation = {
+	name = "königsberg_lightcruiser_attack_animation"
+	file = "königsberg_lightcruiser_attack.anim"
+}
+
+animation = {
+	name = "königsberg_lightcruiser_defend_animation"
+	file = "königsberg_lightcruiser_defend.anim"
+}
+
+animation = {
+	name = "königsberg_lightcruiser_idle_animation"
+	file = "königsberg_lightcruiser_idle.anim"
+}
+
+
+
+####
+# SUPER HEAVY BATTLESHIP
+####
+animation = {
+	name = "generic_super_heavy_battleship_death_animation"
+	file = "generic_super_heavy_battleship_death.anim"
+}
+
+animation = {
+	name = "generic_super_heavy_battleship_attack_animation"
+	file = "generic_super_heavy_battleship_attack.anim"
+}
+
+animation = {
+	name = "generic_super_heavy_battleship_defend_animation"
+	file = "generic_super_heavy_battleship_defend.anim"
+}
+
+animation = {
+	name = "generic_super_heavy_battleship_idle_animation"
+	file = "generic_super_heavy_battleship_idle.anim"
+}
+
+
+
+
+
+
+
+animation = {
+	name = "generic_super_heavy_destroyer_idle_animation"
+	file = "generic_super_heavy_destroyer_idle.anim"
+}
+
+
+####
+# SUBMARINE
+####
+animation = {
+	name = "generic_submarine_death_animation"
+	file = "generic_submarine_death.anim"
+}
+
+animation = {
+	name = "generic_submarine_attack_animation"
+	file = "generic_submarine_attack.anim"
+}
+
+animation = {
+	name = "generic_submarine_defend_animation"
+	file = "generic_submarine_defend.anim"
+}
+
+animation = {
+	name = "generic_submarine_idle_animation"
+	file = "generic_submarine_idle.anim"
+}
+
+####
+# Type 1934 Destroyer
+####
+animation = {
+	name = "type_1934_destroyer_death_animation"
+	file = "type_1934_destroyer_death.anim"
+}
+
+animation = {
+	name = "type_1934_destroyer_attack_animation"
+	file = "type_1934_destroyer_attack.anim"
+}
+
+animation = {
+	name = "type_1934_destroyer_defend_animation"
+	file = "type_1934_destroyer_defend.anim"
+}
+
+animation = {
+	name = "type_1934_destroyer_idle_animation"
+	file = "type_1934_destroyer_idle.anim"
+}
