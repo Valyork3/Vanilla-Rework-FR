@@ -1,0 +1,15 @@
+version="1"
+picture="thumbnail.png"
+tags={
+	"Balance"
+	"Fixes"
+	"Graphics"
+	"Gameplay"
+	"Historical"
+	"National Focuses"
+	"Technologies"
+	"Utilities"
+}
+name="Vanilla Rework Fr"
+supported_version="1.14.7"
+remote_file_id="3293287715"
