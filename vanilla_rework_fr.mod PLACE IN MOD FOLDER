@@ -1,0 +1,16 @@
+version="1"
+picture="thumbnail.png"
+tags={
+	"Balance"
+	"Fixes"
+	"Graphics"
+	"Gameplay"
+	"Historical"
+	"National Focuses"
+	"Technologies"
+	"Utilities"
+}
+name="Vanilla Rework Fr"
+supported_version="1.14.7"
+path="C:/Users/benoi/Documents/Paradox Interactive/Hearts of Iron IV/mod/vanilla_rework_fr"
+remote_file_id="3293287715"
