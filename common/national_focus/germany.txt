@@ -2955,8 +2955,8 @@ focus = {
 			}
 		}
 		cancel_if_invalid = no
-		x = 8
-		y = 3
+		x = 7
+		y = 2
 		relative_position_id = GER_soviet_treaty
 		cost = 5
 		ai_will_do = {
@@ -3578,7 +3578,7 @@ focus = {
 		}
 		cancel_if_invalid = no
 		x = 0
-		y = 3
+		y = 2
 		relative_position_id = GER_demand_memel
 		cost = 5
 		ai_will_do = {
