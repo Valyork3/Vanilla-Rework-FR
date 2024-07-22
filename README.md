@@ -1,5 +1,8 @@
 # Vanilla Rework FR
+![Vanilla Rework FR](https://raw.githubusercontent.com/BFourquin/Vanilla-Rework-FR/main/steam%20banner.png)
+
  HOI4 balance mod for the french HOI4 multiplayer community
+
 
 Better balance and somewhat improved minors, while keeping vanilla gameplay
 
