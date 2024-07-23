@@ -1,8 +1,0 @@
-spriteTypes = {	
-
-	spriteType = {
-		name = "GFX_idea_Enigma"
-		texturefile = "gfx/interface/ideas/r56_idea_GER_Enigma_Machine.dds"
-	}		
-
-}
