@@ -17,7 +17,6 @@
 	focus = {
 		id = JAP_purge_the_kodoha_faction
 		icon = GFX_goal_generic_major_war
-		mutually_exclusive = { focus = JAP_the_unthinkable_option focus = JAP_support_the_kodoha_faction focus = JAP_strengthen_civilian_government }
 		x = 0
 		y = 0
 
@@ -1224,7 +1223,7 @@
 	focus = {
 		id = JAP_national_mobilization_law
 		icon = GFX_goal_generic_axis_build_infantry
-		prerequisite = { focus = JAP_guide_the_zaibatsus focus = JAP_challenge_the_zaibatsus }
+		prerequisite = { focus = JAP_guide_the_zaibatsus }
 		x = 2
 		y = 1
 		relative_position_id = JAP_guide_the_zaibatsus
@@ -1361,7 +1360,6 @@
 		id = JAP_imperial_arsenals
 		icon = GFX_goal_generic_construct_mil_factory
 		prerequisite = { focus = JAP_national_mobilization_law }
-		prerequisite = { focus = JAP_challenge_the_zaibatsus }
 		x = 2
 		y = 1
 		relative_position_id = JAP_national_mobilization_law

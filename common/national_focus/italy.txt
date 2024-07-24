@@ -8219,7 +8219,6 @@ focus_tree = {
 		x = 50
 		y = 0
 
-		relative_position_id = ITA_the_abyssinian_fiasco
 		cost = 5
 
 		bypass = {

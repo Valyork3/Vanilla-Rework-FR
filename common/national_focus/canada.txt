@@ -2396,7 +2396,6 @@ focus_tree = {
 
 	focus = {
 		id = CAN_strengthen_the_commonwealth_ties
-		mutually_exclusive = { focus = CAN_patriation }
 		icon = GFX_goal_tfv_strengthen_commonwealth_ties
 		x = 21
 		y = 0
@@ -2639,7 +2638,7 @@ focus_tree = {
 	focus = {
 		id = CAN_camp_x
 		icon = GFX_goal_generic_intelligence_exchange 
-		prerequisite = { focus = CAN_montreal_laboratory_collaboration focus = CAN_permanent_joint_defense_board }
+		prerequisite = { focus = CAN_montreal_laboratory_collaboration }
 		x = 0
 		y = 2
 		relative_position_id = CAN_strengthen_the_commonwealth_ties

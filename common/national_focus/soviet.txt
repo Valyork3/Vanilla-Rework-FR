@@ -1057,6 +1057,7 @@ focus_tree = {
 					has_full_control_of_state = 230 #ARMENIA
 					has_full_control_of_state = 231 #GEORGIA
 				}
+				}
 				# Baku - Tbilisi
 				build_railway = {
 					path = { 7661 1536 4614 4477 11645 11674 1539 11708 1599 }
@@ -1079,10 +1080,8 @@ focus_tree = {
 		id = SOV_the_common_economic_space_initiative
 
 		icon = GFX_goal_anschluss
-		prerequisite = { focus = SOV_fourth_five_year_plan }
 		x = 0
 		y = 1
-		relative_position_id = SOV_fourth_five_year_plan
 		cost = 10
 
 		allow_branch = {
@@ -1132,35 +1131,6 @@ focus_tree = {
 			}
 
 			unlock_decision_category_tooltip = SOV_comecon_dec_cat
-		}
-	}
-
-	focus = {
-		id = SOV_no_time_for_peace
-
-		icon = GFX_focus_rocketry
-		prerequisite = { focus = SOV_national_academies_of_sciences }
-		x = 1
-		y = 1
-		relative_position_id = SOV_national_academies_of_sciences
-		cost = 10
-
-		available = {
-
-		}
-		
-		search_filters = {FOCUS_FILTER_INDUSTRY FOCUS_FILTER_RESEARCH}
-
-		completion_reward = {
-			add_tech_bonus = {
-				name = SOV_no_time_for_peace
-				bonus = 0.75
-				uses = 2
-				category = nuclear
-				category = rocketry
-			}
-
-			add_ideas = SOV_no_time_for_peace_idea
 		}
 	}
 
@@ -1693,6 +1663,35 @@ focus_tree = {
 			else = { #ALT IDEOLOGY
 				custom_effect_tooltip = SOV_national_academies_of_sciences_alt_tt
 			}
+		}
+	}
+
+	focus = {
+		id = SOV_no_time_for_peace
+
+		icon = GFX_focus_rocketry
+		prerequisite = { focus = SOV_national_academies_of_sciences }
+		x = 1
+		y = 1
+		relative_position_id = SOV_national_academies_of_sciences
+		cost = 10
+
+		available = {
+
+		}
+		
+		search_filters = {FOCUS_FILTER_INDUSTRY FOCUS_FILTER_RESEARCH}
+
+		completion_reward = {
+			add_tech_bonus = {
+				name = SOV_no_time_for_peace
+				bonus = 0.75
+				uses = 2
+				category = nuclear
+				category = rocketry
+			}
+
+			add_ideas = SOV_no_time_for_peace_idea
 		}
 	}
 
@@ -6597,8 +6596,6 @@ focus_tree = {
 		relative_position_id = SOV_the_path_of_marxism_leninism
 		cost = 5
 
-		mutually_exclusive = { focus = SOV_the_right_opposition focus = SOV_the_left_opposition }
-
 		available = {
 
 		}
@@ -8650,8 +8647,6 @@ focus_tree = {
 			}	
 		}
 		
-		mutually_exclusive = { focus = SOV_policy_of_collective_security }
-
 		available = {
 
 		}
@@ -8670,7 +8665,6 @@ focus_tree = {
 		id = SOV_approach_germany
 		icon = GFX_goal_molotov_ribbentrop_pact
 		prerequisite = { focus = SOV_policy_of_individual_security }
-		prerequisite = { focus = SOV_anti_capitalist_policies }
 		x = 0
 		y = 1
 		relative_position_id = SOV_policy_of_individual_security
@@ -9030,8 +9024,6 @@ focus_tree = {
 				}
 			}	
 		}
-
-		mutually_exclusive = { focus = SOV_respect_baltic_self_determination }
 
 		available = {
 			NOT = { has_country_flag = SOV_paranoia_system_active_flag }

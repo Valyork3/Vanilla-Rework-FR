@@ -1451,7 +1451,6 @@
 		y = 0
 
 		prerequisite = {}
-		mutually_exclusive = { focus = FRA_revive_the_national_bloc }
 		cost = 10
 
 		ai_will_do = {
@@ -2281,7 +2280,6 @@
 		prerequisite = {
 			focus = FRA_review_foreign_policy
 		}
-		mutually_exclusive = { focus = FRA_confirm_eastern_commitments }
 		relative_position_id = FRA_review_foreign_policy
 		cost = 5
 
@@ -2423,7 +2421,6 @@
 			}
 		}
 	 	prerequisite = { focus = FRA_buy_time }
-	 	mutually_exclusive = { focus = FRA_france_leads }
 		x = 0
 		y = 1
 		relative_position_id = FRA_buy_time

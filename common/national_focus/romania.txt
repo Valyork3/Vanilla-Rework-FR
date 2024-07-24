@@ -64,7 +64,6 @@ focus_tree = {
 	focus = {
 		id = ROM_preserve_greater_romania
 		icon = GFX_focus_rom_preserve_romania
-		mutually_exclusive = { focus = ROM_balkans_dominance }
 		x = 0
 		y = 0
 
@@ -91,38 +90,6 @@ focus_tree = {
 			add_ideas = ROM_preserve_greater_romania
 		}
 	}!
-
-	focus = {
-		id = ROM_romanian_volunteer_brigades
-		icon = GFX_goal_generic_military_sphere
-		prerequisite = { focus = ROM_institute_royal_dictatorship }
-		x = -1
-		y = 1
-		relative_position_id = ROM_institute_royal_dictatorship
-
-		cost = 5
-
-		ai_will_do = {
-			factor = 1
-		}
-
-		available = {
-
-		}
-
-		bypass = {
-
-		}
-
-		cancel_if_invalid = yes
-		continue_if_invalid = no
-		available_if_capitulated = no
-
-
-		completion_reward = {
-			add_ideas = ROM_romanian_volunteer_brigades
-		}
-	}
 
 	focus = {
 		id = ROM_trade_treaty_with_germany
@@ -1081,6 +1048,38 @@ focus_tree = {
 		}		
 	}
 
+		focus = {
+		id = ROM_romanian_volunteer_brigades
+		icon = GFX_goal_generic_military_sphere
+		prerequisite = { focus = ROM_institute_royal_dictatorship }
+		x = -1
+		y = 1
+		relative_position_id = ROM_institute_royal_dictatorship
+
+		cost = 5
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+
+		}
+
+		bypass = {
+
+		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+
+		completion_reward = {
+			add_ideas = ROM_romanian_volunteer_brigades
+		}
+	}
+
 	focus = {
 		id = ROM_fortify_the_borders
 		icon = GFX_goal_generic_construct_military
@@ -1239,7 +1238,6 @@ focus_tree = {
 		id = ROM_flexible_foreign_policy
 		icon = GFX_goal_generic_improve_relations
 		prerequisite = { focus = ROM_revise_the_constitution }
-		mutually_exclusive = { focus = ROM_his_majestys_loyal_government }
 		x = 1
 		y = 2
 		relative_position_id = ROM_institute_royal_dictatorship

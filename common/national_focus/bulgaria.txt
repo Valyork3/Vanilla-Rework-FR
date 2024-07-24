@@ -2590,11 +2590,9 @@ focus_tree = {
 		id = BUL_power_to_the_tsar
 
 		icon = GFX_focus_BUL_power_to_the_tsar
-		relative_position_id = BUL_oppose_the_royal_dictatorship
 		x = 40
 		y = 0
 		cost = 5
-		mutually_exclusive = { focus = BUL_oppose_the_royal_dictatorship }
 
 		available = {
 
@@ -2623,7 +2621,7 @@ focus_tree = {
 	focus = {
 		id = BUL_condemn_macedonian_organizations
 
-		prerequisite = { focus = BUL_power_to_the_tsar focus = BUL_oppose_the_royal_dictatorship }
+		prerequisite = { focus = BUL_power_to_the_tsar }
 		icon = GFX_focus_BUL_condemn_macedonian_organizations
 		relative_position_id = BUL_power_to_the_tsar
 		x = -11
@@ -2675,7 +2673,7 @@ focus_tree = {
 	focus = {
 		id = BUL_support_macedonian_organizations
 
-		prerequisite = { focus = BUL_power_to_the_tsar focus = BUL_oppose_the_royal_dictatorship }
+		prerequisite = { focus = BUL_power_to_the_tsar }
 		icon = GFX_focus_BUL_support_macedonian_organizations
 		relative_position_id = BUL_condemn_macedonian_organizations
 		x = 2
@@ -2757,7 +2755,7 @@ focus_tree = {
 	focus = {
 		id = BUL_dissolve_the_military_union
 
-		prerequisite = { focus = BUL_power_to_the_tsar focus = BUL_oppose_the_royal_dictatorship }
+		prerequisite = { focus = BUL_power_to_the_tsar }
 		icon = GFX_focus_BUL_destroy_the_zveno
 		relative_position_id = BUL_condemn_macedonian_organizations
 		x = 4
@@ -2788,7 +2786,7 @@ focus_tree = {
 	focus = {
 		id = BUL_cooperate_with_the_zveno
 
-		prerequisite = { focus = BUL_power_to_the_tsar focus = BUL_oppose_the_royal_dictatorship }
+		prerequisite = { focus = BUL_power_to_the_tsar }
 		icon = GFX_focus_BUL_cooperate_with_the_zveno
 		relative_position_id = BUL_condemn_macedonian_organizations
 		x = 6
@@ -2852,7 +2850,7 @@ focus_tree = {
 	focus = {
 		id = BUL_restrained_paramilitary_organizations
 
-		prerequisite = { focus = BUL_the_tsars_regime focus = BUL_democratic_principles }
+		prerequisite = { focus = BUL_the_tsars_regime }
 		icon = GFX_goal_demand_sudetenland
 		relative_position_id = BUL_the_tsars_regime
 		x = -4
@@ -2888,7 +2886,7 @@ focus_tree = {
 	focus = {
 		id = BUL_ban_far_right_organizations
 
-		prerequisite = { focus = BUL_the_tsars_regime focus = BUL_democratic_principles }
+		prerequisite = { focus = BUL_the_tsars_regime }
 		icon = GFX_focus_eng_move_to_secure_the_dominions
 		relative_position_id = BUL_restrained_paramilitary_organizations
 		x = -2
@@ -3289,7 +3287,7 @@ focus_tree = {
 	focus = {
 		id = BUL_liberalization_of_trade_policies
 
-		prerequisite = { focus = BUL_illusions_of_a_non_partisan_system focus = BUL_petorka }
+		prerequisite = { focus = BUL_illusions_of_a_non_partisan_system }
 
 		icon = GFX_goal_generic_trade
 		relative_position_id = BUL_illusions_of_a_non_partisan_system
@@ -3609,7 +3607,7 @@ focus_tree = {
 		x = 0
 		y = 2
 		cost = 5
-		mutually_exclusive = { focus = BUL_join_the_tripartite_pact focus = BUL_join_the_allies focus = BUL_a_balkan_confederation }
+		mutually_exclusive = { focus = BUL_join_the_tripartite_pact }
 
 		available = {
 			OR = {
@@ -3960,7 +3958,7 @@ focus_tree = {
 	focus = {
 		id = BUL_consolidate_dominance_of_the_seas
 
-		prerequisite = { focus = BUL_guardians_of_the_balkans focus = BUL_join_the_allies }
+		prerequisite = { focus = BUL_guardians_of_the_balkans }
 
 		icon = GFX_goal_generic_navy_battleship
 		relative_position_id = BUL_guardians_of_the_balkans
@@ -4850,7 +4848,7 @@ focus_tree = {
 		x = 0
 		y = 4
 		cost = 5
-		mutually_exclusive = { focus = BUL_the_fate_of_the_balkans focus = BUL_join_the_allies }
+		mutually_exclusive = { focus = BUL_the_fate_of_the_balkans }
 
 		bypass = {
 			OR = {
