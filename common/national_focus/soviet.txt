@@ -1057,7 +1057,6 @@ focus_tree = {
 					has_full_control_of_state = 230 #ARMENIA
 					has_full_control_of_state = 231 #GEORGIA
 				}
-				}
 				# Baku - Tbilisi
 				build_railway = {
 					path = { 7661 1536 4614 4477 11645 11674 1539 11708 1599 }
