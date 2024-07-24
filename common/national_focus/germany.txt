@@ -2276,8 +2276,8 @@ focus_tree = {
 		id = GER_air_innovation
 		text = air_innovation
 		icon = GFX_goal_generic_build_airforce
-		x = 17
-		y = 0
+		x = 18
+		y = 4
 		cost = 5
 		ai_will_do = {
 			factor = 1
@@ -2570,7 +2570,7 @@ focus_tree = {
 	focus = {
 		id = GER_army_innovation
 		icon = GFX_goal_generic_axis_build_infantry
-		x = 20
+		x = 18
 		y = 0
 		cost = 5
 		ai_will_do = {
@@ -2875,9 +2875,9 @@ focus_tree = {
 			}
 		}
 		cancel_if_invalid = no
-		x = 7
-		y = 2
-		relative_position_id = GER_soviet_treaty
+		x = 0
+		y = 1
+		relative_position_id = GER_demand_memel
 		cost = 5
 		ai_will_do = {
 			factor = 10
@@ -2955,7 +2955,7 @@ focus_tree = {
 				}
 			}
 		}
-		x = -2
+		x = 2
 		y = 1
 		relative_position_id = GER_rhineland
 		cost = 5
@@ -3010,7 +3010,7 @@ focus_tree = {
 		icon = GFX_goal_anti_comintern_pact
 		prerequisite = { focus = GER_rhineland  }
 		x = -3
-		y = 2
+		y = 1
 		relative_position_id = GER_rhineland
 		cost = 5
 		available = {
@@ -3398,7 +3398,7 @@ focus_tree = {
 		icon = GFX_goal_generic_forceful_treaty
 		prerequisite = { focus = GER_anschluss }
 		available = { is_subject = no }
-		x = 2
+		x = 1
 		y = 1
 		relative_position_id = GER_anschluss
 		cost = 5
@@ -4331,7 +4331,7 @@ focus_tree = {
 	focus = {
 		id = GER_naval_rearmament
 		icon = GFX_goal_generic_build_navy
-		x = 31
+		x = 32
 		y = 0
 
 		offset = {

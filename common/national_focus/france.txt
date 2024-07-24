@@ -771,7 +771,7 @@
 	focus = {
 		id = FRA_begin_rearmament
 		icon = GFX_goal_generic_construct_mil_factory
-		x = 15
+		x = 16
 		y = 0
 		
 		prerequisite = {}
@@ -1447,7 +1447,7 @@
 	focus = {
 		id = FRA_form_the_popular_front
 		icon = GFX_goal_generic_intelligence_exchange
-		x = 21
+		x = 27
 		y = 0
 
 		prerequisite = {}
@@ -1504,7 +1504,7 @@
 		id = FRA_reform_the_labour_laws
 		icon = GFX_goal_generic_production
 		x = 0
-		y = 2
+		y = 3
 		
 		prerequisite = {
 			focus = FRA_form_the_popular_front
@@ -1541,7 +1541,7 @@
 	focus = {
 		id = FRA_nationalize_key_industry
 		icon = GFX_goal_generic_construct_civ_factory
-		x = 0
+		x = -4
 		y = 1
 		
 		prerequisite = {
@@ -1875,7 +1875,7 @@
 	focus = {
 		id = FRA_ban_the_leagues
 		icon = GFX_goal_generic_forceful_treaty
-		x = 1
+		x = -2
 		y = 1
 		
 		prerequisite = {
@@ -1912,7 +1912,7 @@
 	focus = {
 		id = FRA_the_blum_viollette_proposal
 		icon = GFX_goal_generic_improve_relations
-		x = 4
+		x = 0
 		y = 1
 
 		prerequisite = {
@@ -2142,7 +2142,7 @@
 	focus = {
 		id = FRA_review_foreign_policy
 		icon = GFX_goal_support_democracy
-		x = 9
+		x = 4
 		y = 1
 
 		prerequisite = {
@@ -2193,7 +2193,7 @@
 	focus = {
 		id = FRA_intervention_in_spain
 		icon = GFX_focus_focus_fra_intervention_spain
-		x = -1
+		x = -4
 		y = 1
 
 		prerequisite = {
@@ -2223,52 +2223,6 @@
 		completion_reward = {
 			unlock_decision_category_tooltip = FRA_spanish_intervention_category
 			set_country_flag = FRA_non_intervention
-		}
-	}
-	focus = {
-		id = FRA_support_the_finns
-		icon = GFX_focus_invite_finland
-		x = -2
-		y = 1
-		
-		prerequisite = {
-			focus = FRA_review_foreign_policy
-		}
-		relative_position_id = FRA_review_foreign_policy
-		cost = 5
-
-		ai_will_do = {
-			factor = 1
-		}
-
-		available = {
-			FIN = {
-				has_war = yes
-				NOT = {
-					has_war_with = ROOT
-				}
-			}
-			is_subject = no
-		}
-		
-		bypass = {
-
-		}
-
-		cancel_if_invalid = yes
-		continue_if_invalid = no
-		available_if_capitulated = no
-
-		completion_reward = {
-			army_experience = 25
-			FIN = {
-				add_manpower = 10000
-				add_equipment_to_stockpile = {
-					type = infantry_equipment
-					amount = 2500
-					producer = FRA
-				}
-			}
 		}
 	}
 
@@ -2352,7 +2306,7 @@
 	 	prerequisite = {
 	 		focus = FRA_buy_time
 	 	}
-		x = -2
+		x = -1
 		y = 1
 		relative_position_id = FRA_buy_time
 		cost = 5
@@ -2421,7 +2375,7 @@
 			}
 		}
 	 	prerequisite = { focus = FRA_buy_time }
-		x = 0
+		x = 1
 		y = 1
 		relative_position_id = FRA_buy_time
 		cost = 5
@@ -2491,13 +2445,12 @@
 	focus = {
 		id = FRA_stimulate_the_dynamic_market
 		icon = GFX_goal_generic_construct_civilian
-		x = 3
+		x = 1
 		y = 1
 		
-		prerequisite = {
-			focus = FRA_form_the_popular_front
-		}
-		relative_position_id = FRA_form_the_popular_front
+		prerequisite = { focus = FRA_agricultural_protectionism focus = FRA_promote_entrepeneurship }
+
+		relative_position_id = FRA_agricultural_protectionism
 		cost = 10
 
 		ai_will_do = {
@@ -2524,9 +2477,11 @@
 	focus = {
 		id = FRA_agricultural_protectionism
 		icon = GFX_goal_generic_defence
-		x = 5
+		x = 2
 		y = 1
-		
+
+		mutually_exclusive = { focus = FRA_promote_entrepeneurship }
+
 		prerequisite = {
 			focus = FRA_form_the_popular_front
 
@@ -2558,9 +2513,9 @@
 	focus = {
 		id = FRA_promote_entrepeneurship
 		icon = GFX_goal_generic_propaganda
-		x = 2
-		y = 2
-		
+		x = 4
+		y = 1
+		mutually_exclusive = { focus = FRA_agricultural_protectionism }
 		prerequisite = {
 			focus = FRA_form_the_popular_front
 		}
@@ -2593,7 +2548,7 @@
 	focus = {
 		id = FRA_naval_rearmament
 		icon = GFX_goal_generic_construct_naval_dockyard
-		x = 35
+		x = 37
 		y = 0
 
 		cost = 10
@@ -3102,9 +3057,8 @@
 	focus = {
 		id = FRA_air_focus
 		icon = GFX_goal_generic_build_airforce
-		x = 9
+		x = 47
 		y = 0
-		relative_position_id = FRA_naval_rearmament
 		
 		cost = 10
 		available_if_capitulated = yes

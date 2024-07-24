@@ -17,7 +17,7 @@
 	focus = {
 		id = JAP_purge_the_kodoha_faction
 		icon = GFX_goal_generic_major_war
-		x = 0
+		x = -1
 		y = 0
 
 		cost = 5
@@ -2072,9 +2072,8 @@
 	focus = {
 		id = JAP_army_expansion_law
 		icon = GFX_goal_generic_army_doctrines
-		x = 5
+		x = 15
 		y = 0
-		relative_position_id = JAP_the_manchurian_project 
 
 		cost = 5
 

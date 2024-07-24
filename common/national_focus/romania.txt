@@ -95,7 +95,7 @@ focus_tree = {
 		id = ROM_trade_treaty_with_germany
 		icon = GFX_goal_generic_trade
 		prerequisite = { focus = ROM_preserve_greater_romania }
-		x = 0
+		x = -2
 		y = 1
 		relative_position_id = ROM_preserve_greater_romania
 
@@ -368,7 +368,7 @@ focus_tree = {
 		id = ROM_civil_works
 		icon = GFX_goal_generic_construction
 		prerequisite = { focus = ROM_preserve_greater_romania }
-		x = 3
+		x = 1
 		y = 1
 		relative_position_id = ROM_preserve_greater_romania
 
@@ -999,7 +999,7 @@ focus_tree = {
 	focus = {
 		id = ROM_institute_royal_dictatorship
 		icon = GFX_focus_rom_royal_dictatorship
-		x = 10
+		x = 8
 		y = 0
 
 		cost = 5
@@ -1052,7 +1052,7 @@ focus_tree = {
 		id = ROM_romanian_volunteer_brigades
 		icon = GFX_goal_generic_military_sphere
 		prerequisite = { focus = ROM_institute_royal_dictatorship }
-		x = -1
+		x = -2
 		y = 1
 		relative_position_id = ROM_institute_royal_dictatorship
 
@@ -1081,41 +1081,10 @@ focus_tree = {
 	}
 
 	focus = {
-		id = ROM_fortify_the_borders
-		icon = GFX_goal_generic_construct_military
-		prerequisite = { focus = ROM_institute_royal_dictatorship }
-		x = -3
-		y = 1
-		relative_position_id = ROM_institute_royal_dictatorship
-
-		cost = 5
-
-		ai_will_do = {
-			factor = 1
-		}
-
-		available = {
-
-		}
-
-		bypass = {
-
-		}
-
-		cancel_if_invalid = yes
-		continue_if_invalid = no
-		available_if_capitulated = no
-
-		completion_reward = {
-			add_ideas = ROM_fortify_the_borders
-		}
-	}
-
-	focus = {
 		id = ROM_revise_the_constitution
 		icon = GFX_goal_generic_forceful_treaty
 		prerequisite = { focus = ROM_institute_royal_dictatorship }
-		x = 1
+		x = 0
 		y = 1
 		relative_position_id = ROM_institute_royal_dictatorship
 
@@ -1182,7 +1151,7 @@ focus_tree = {
 		id = ROM_crack_down_on_extremism
 		icon = GFX_goal_generic_political_pressure
 		prerequisite = { focus = ROM_institute_royal_dictatorship }
-		x = 3
+		x = 2
 		y = 1
 		relative_position_id = ROM_institute_royal_dictatorship
 
@@ -1238,10 +1207,9 @@ focus_tree = {
 		id = ROM_flexible_foreign_policy
 		icon = GFX_goal_generic_improve_relations
 		prerequisite = { focus = ROM_revise_the_constitution }
-		x = 1
-		y = 2
-		relative_position_id = ROM_institute_royal_dictatorship
-
+		x = 0
+		y = 1
+		relative_position_id = ROM_revise_the_constitution
 		cost = 5
 
 		ai_will_do = {
@@ -1646,7 +1614,7 @@ focus_tree = {
 	focus = {
 		id = ROM_expand_the_air_force
 		icon = GFX_goal_generic_build_airforce
-		x = 18
+		x = 16
 		y = 0
 
 		cost = 5
@@ -2300,7 +2268,7 @@ focus_tree = {
 	focus = {
 		id = ROM_army_maneuvers
 		icon = GFX_goal_generic_army_doctrines
-		x = 26
+		x = 25
 		y = 0
 
 		cost = 5

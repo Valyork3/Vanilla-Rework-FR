@@ -3885,7 +3885,7 @@ focus_tree = {
 		id = SOV_found_the_pcdi
 
 		icon = GFX_goal_generic_defence
-		x = 15
+		x = 17
 		y = 0
 		relative_position_id = SOV_expand_the_red_fleet
 		cost = 5
@@ -6566,7 +6566,7 @@ focus_tree = {
 	focus = {
 		id = SOV_the_path_of_marxism_leninism
 		icon = GFX_focus_SOV_the_path_of_marxism_leninism
-		x = 16
+		x = 17
 		y = 0
 
 		relative_position_id = SOV_strengthen_the_mobilization_plan
@@ -6589,7 +6589,7 @@ focus_tree = {
 		id = SOV_the_centre
 		icon = GFX_focus_fra_loyalty_stalin
 		prerequisite = { focus = SOV_the_path_of_marxism_leninism }
-		x = -8
+		x = 0
 		y = 1
 
 		relative_position_id = SOV_the_path_of_marxism_leninism
@@ -7983,7 +7983,7 @@ focus_tree = {
 		id = SOV_addressing_internal_affairs
 		icon = GFX_focus_generic_self_management
 		prerequisite = { focus = SOV_the_path_of_marxism_leninism }
-		x = -3
+		x = -6
 		y = 1
 
 		relative_position_id = SOV_the_path_of_marxism_leninism
@@ -8368,8 +8368,8 @@ focus_tree = {
 		icon = GFX_goal_support_communism
 		prerequisite = { focus = SOV_the_path_of_marxism_leninism }
 		x = 9
-		y = 0
-		relative_position_id = SOV_addressing_internal_affairs
+		y = 1
+		relative_position_id = SOV_the_path_of_marxism_leninism
 		cost = 5
 
 		allow_branch = {
