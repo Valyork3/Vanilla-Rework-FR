@@ -19,7 +19,6 @@ technologies = {
 			support_equipment_1
 		}
 		
-		
 		path = {
 			leads_to_tech = tech_engineers
 			research_cost_coeff = 1
@@ -33,7 +32,7 @@ technologies = {
 			leads_to_tech = tech_field_hospital
 			research_cost_coeff = 1
 		}					
-        path = 
+        path = {
             leads_to_tech = tech_flamethrower
             research_cost_coeff = 1
         }
