@@ -360,7 +360,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_unit_flamethrower_icon_small"
-		texturefile = "gfx/texticons/flamethrower_inf_small.dds"
+		texturefile = "gfx/texticons/unit_flamethrower_inf_small.dds"
 		legacy_lazy_load = no
 		noOfFrames = 2
 	}

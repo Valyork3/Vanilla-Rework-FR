@@ -169,7 +169,7 @@ spriteTypes = {
 	spriteType = { name = "GFX_unit_marine_commando_icon_medium_white"						textureFile = "gfx/interface/counters/divisions_small/onmap_unit_marine_icon.dds" noOfFrames = 2}
 	spriteType = { name = "GFX_unit_jungle_pioneers_support_icon_medium_white"				textureFile = "gfx/interface/counters/divisions_small/onmap_unit_jungle_pioneers_support_icon_white.dds" noOfFrames = 2}
 	spriteType = { name = "GFX_unit_integralist_militia_icon_medium_white"					textureFile = "gfx/interface/counters/divisions_small/onmap_unit_marine_icon.dds" noOfFrames = 2}
-	spriteType = { name = "GFX_unit_flamethrower_inf_icon_medium_white"						textureFile = "gfx/interface/counters/divisions_small/onmap_support_unit_flamethrower_icon.dds" noOfFrames = 2}
+	spriteType = { name = "GFX_unit_flamethrower_inf_icon_medium_white"						textureFile = "gfx/interface/counters/divisions_small/onmap_unit_flamethrower_inf_icon.dds" noOfFrames = 2}
 
 
 	
