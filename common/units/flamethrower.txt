@@ -4,7 +4,7 @@ sub_units = {
 		map_icon_category = infantry
 		priority = 0
 		ai_priority = 0
-		active = no
+		active = yes
 		affects_speed = no
 
 		type = {
@@ -15,7 +15,6 @@ sub_units = {
 		group = support
 		
 		categories = {
-			category_front_line
 			category_support_battalions
 			category_army
 		}
@@ -33,8 +32,9 @@ sub_units = {
 		#Misc Abilities
 		weight = 0.1
 		supply_consumption = 0.03
-		
+		can_be_parachuted = no
 
+		# Important Ability
 		soft_attack = 1
 
 		essential = {
@@ -46,7 +46,7 @@ sub_units = {
 			infantry_equipment = 200
 		}
 
-		can_be_parachuted = no
+		
 
 		urban = {
 			defence = 0.05
