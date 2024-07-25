@@ -604,7 +604,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = shadow_scheme_focus
-		cost = 7,7
+		cost = 7.2
 		ai_will_do = {
 			factor = 1
 		}	
@@ -638,7 +638,7 @@ focus_tree = {
 		x = 0
 		y = 1
 		relative_position_id = uk_industrial_focus
-		cost = 7,7
+		cost = 7.2
 
 		available_if_capitulated = yes
 		search_filters = {FOCUS_FILTER_RESEARCH}
