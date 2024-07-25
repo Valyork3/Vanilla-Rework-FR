@@ -1,5 +1,4 @@
-version="1"
-picture="thumbnail.png"
+version="0.1"
 tags={
 	"Balance"
 	"Fixes"
@@ -11,5 +10,8 @@ tags={
 	"Utilities"
 }
 name="Vanilla Rework Fr"
-supported_version="1.14.7"
+replace_path="common/ai_strategy_plans"
+replace_path="common/ai_focuses"
+picture="thumbnail.png"
+supported_version="1.14.*"
 remote_file_id="3293287715"
